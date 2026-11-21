@@ -7,9 +7,9 @@
 ![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-2.2+-150458?logo=pandas&logoColor=white)
 [![Dataset](https://img.shields.io/badge/Dataset-Olist-087E8B)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-![Progress](https://img.shields.io/badge/Stage-01_data_inspection-25665B)
+![Progress](https://img.shields.io/badge/Analysis-12_steps-25665B)
 
-[Overview](#overview) · [Dataset](#dataset) · [First findings](#first-findings) · [Roadmap](#roadmap) · [Run locally](#run-locally) · 
+[Overview](#overview) · [Dataset](#dataset) · [Results](#results) · [Script guide](#script-guide) · [Run locally](#run-locally)
 
 </div>
 
@@ -17,7 +17,7 @@
 
 A sales manager sees a strong month on the dashboard. Did more customers place orders, or did each order contain more merchandise? This project uses Olist transactions to work through that question and two others. Which customers, cities, and categories account for the most sales? Where do deliveries miss their promised dates?
 
-The first release profiles every source table. Later stages will connect purchases to line items and customers, build monthly sales and delivery measures, and turn the results into a short management report.
+Twelve numbered scripts take the raw files from inspection to sales, customer and delivery results. Each script prints a short summary. Detailed results are available in CSV tables and six figures.
 
 ## Dataset
 
@@ -52,73 +52,71 @@ flowchart TD
 
 An order with two items and two payment entries produces four rows if both detail tables are joined directly on `order_id`. For order-level analysis, total each detail table separately before joining it to orders. Keep an item-level table for category rankings.
 
-## First findings
+## Results
 
-| Observation from the raw files | What to check next |
-|:--|:--|
-| 99,441 order rows and 112,650 item rows | Check the uniqueness of `order_id` in orders and the composite item key before merging |
-| 2,965 order rows (2.98%) lack an actual customer delivery timestamp | Count missing dates by order status before calculating delivery time |
-| 58,247 review rows (58.70%) lack a written comment | Count available scores separately from written comments |
-| 261,831 of 1,000,163 geolocation rows repeat a full earlier row | Inspect repeated prefixes again after removing exact duplicates in a working copy |
-
-Source outputs from stage 01: [table inventory](reports/tables/table_inventory.csv) · [column profile](reports/tables/column_profile.csv). The duplicate count uses pandas `duplicated()`, which counts occurrences after the first. The profile records loaded types before any date conversion.
-
-## Roadmap
-
-| Stage | Deliverable | Status |
+| Business question | Result | Detail |
 |:--|:--|:--|
-| 01 · Inspect | Inventory of all nine tables, types, missing values, exact duplicates | **Completed** |
-| 02 · Clean | Parsed dates, key checks, documented decisions on missing values and duplicates | Next |
-| 03 · Join | Order-level and item-level tables, checked against source totals | Planned |
-| 04 · Build features | Merchandise value per order, purchase month, delivery days and late flag | Planned |
-| 05 · Calculate KPIs | Merchandise sales, average order value, distinct orders and buyers | Planned |
-| 06 · Analyze sales and customers | Monthly trends, repeat purchases, top customers, cities and categories | Planned |
-| 07 · Analyze delivery and plot results | Late deliveries by region, monthly sales chart and ranking charts | Planned |
-| 08 · Report | Executive summary with evidence, recommended actions and limitations | Planned |
+| How much merchandise was sold? | **R$ 13,221,498.11** across **96,478 delivered orders**, averaging **R$ 137.04** per order. Freight totaled R$ 2,198,275.64. | [Sales KPIs](reports/tables/07_sales_kpis.csv) |
+| Which purchase month led sales? | **November 2017**, with R$ 987,765.37 in merchandise sales. | [Monthly totals and growth](reports/tables/08_monthly_sales.csv) |
+| How often did buyers return? | **2,801 of 93,358 buyers (3.00%)** placed at least two delivered orders within the observation window. | [Customer KPIs](reports/tables/10_customer_kpis.csv) |
+| How often did deliveries miss the promise? | **6,534 of 96,470 evaluated orders (6.77%)** arrived after the promised calendar day. The other eight delivered orders lack an actual delivery timestamp. | [Delivery outcomes](reports/tables/05_delivery_outcomes.csv) |
+| Which city and category led merchandise sales? | **São Paulo / SP** led cities with R$ 1,859,556.83. **Health & Beauty** led categories with R$ 1,233,131.72. | [Cities](reports/tables/11_city_sales.csv) · [Categories](reports/tables/12_category_sales.csv) |
 
-### Planned metric definitions
+![Monthly merchandise sales in BRL](assets/figures/09_plot_monthly_trends/total_sales.png)
 
-| Measure | Working definition |
-|:--|:--|
-| Merchandise sales (BRL) | Sum of item prices on delivered orders. Freight is tracked separately |
-| Average order value (BRL) | Merchandise sales divided by distinct delivered orders with item values. Report any excluded orders |
-| Customers and repeat buyers | Distinct `customer_unique_id` values for delivered orders. A repeat buyer has at least two distinct delivered orders during the observed period |
-| Sales month | Calendar month of purchase for the qualifying orders. Flag partial months in trend charts |
-| Delivery time and late rate | Days elapsed from purchase to delivery. A delivery is late if its actual calendar date is after its estimated date. Divide late deliveries by delivered orders with both dates |
+The monthly table covers all observed purchase months for delivered orders, including months with zero qualifying orders. The three trend charts use the original January 2017 to August 2018 display window. Interpret the first and last observed months with care because the observation window can cut through a month. A missing growth rate means the previous month was absent or had zero sales.
+
+![Delivery outcomes by promised date](assets/figures/05_compare_delivery_dates/delivery_outcomes.png)
+
+**Reading the counts.** An order qualifies for sales when its status is delivered and its items have a merchandise value. The duration measure also requires a valid purchase and actual delivery date with a nonnegative interval. The late rate additionally requires a promised date. Delivery on the promised calendar day counts as on time.
+
+[Order count trend](assets/figures/09_plot_monthly_trends/order_count.png) · [Average order value trend](assets/figures/09_plot_monthly_trends/average_order_value.png) · [City ranking](assets/figures/11_rank_cities/top_sales.png) · [Category ranking](assets/figures/12_rank_product_categories/top_sales.png)
 
 ## Run locally
 
-Use Python 3.11 with pandas. From the repository root, install the dependency, extract all nine CSVs directly into `data/raw/`, then run the inspection.
+Use Python 3.11. Extract the nine source CSVs directly into `data/raw/`. Run the commands below from the repository root. The scripts also work from an IDE with the same Python environment.
 
 ```bash
 python -m pip install -r requirements.txt
 python scripts/01_inspect_data.py
 ```
 
-Open `reports/tables/table_inventory.csv` first and find the table with the most repeated rows. Then open `column_profile.csv` and compare missing delivery dates with missing review comments. The script rereads the raw files on each run and replaces the two summary CSVs.
+Continue in the numbered order below. To reproduce all stages from a Windows PowerShell terminal:
+
+```powershell
+Get-ChildItem scripts/[0-9]*.py | Sort-Object Name | ForEach-Object {
+    python $_.FullName
+    if ($LASTEXITCODE -ne 0) { throw "Stage failed: $($_.Name)" }
+}
+```
+
+## Script guide
+
+| Script | What to learn | Input stage | Result to inspect |
+|:--|:--|:--|:--|
+| [01_inspect_data.py](scripts/01_inspect_data.py) | Read nine CSVs, count missing values and exact duplicates | Raw files | [Table inventory](reports/tables/table_inventory.csv) · [Column profile](reports/tables/column_profile.csv) |
+| [02_check_order_dates.py](scripts/02_check_order_dates.py) | Check order keys and distinguish missing dates from parsing errors | Raw orders | [Date checks](reports/tables/02_date_checks.csv) |
+| [03_check_delivery_records.py](scripts/03_check_delivery_records.py) | Group missing dates by status and flag contradictory records | 02 | [Status counts](reports/tables/03_dates_by_status.csv) · [Flagged orders](reports/tables/03_delivery_exceptions.csv) |
+| [04_measure_delivery_times.py](scripts/04_measure_delivery_times.py) | Subtract timestamps and interpret the median and percentiles | 02 | [Duration statistics](reports/tables/04_duration_stats.csv) |
+| [05_compare_delivery_dates.py](scripts/05_compare_delivery_dates.py) | Compare calendar days and calculate delay severity among late orders | 04 | [Outcomes](reports/tables/05_delivery_outcomes.csv) · [Late orders only](reports/tables/05_late_delay_stats.csv) |
+| [06_build_order_totals.py](scripts/06_build_order_totals.py) | Check item keys, group items and join totals to orders | 02 + raw items | [Join checks](reports/tables/06_item_join_checks.csv) |
+| [07_calculate_sales_kpis.py](scripts/07_calculate_sales_kpis.py) | Define the sales population and calculate average order value | 06 | [Sales KPIs](reports/tables/07_sales_kpis.csv) |
+| [08_analyze_monthly_sales.py](scripts/08_analyze_monthly_sales.py) | Group by purchase month, fill missing months and calculate growth | 07 | [Monthly table](reports/tables/08_monthly_sales.csv) |
+| [09_plot_monthly_trends.py](scripts/09_plot_monthly_trends.py) | Read a summary table and plot sales, order count and average order value | 08 | [Monthly charts](assets/figures/09_plot_monthly_trends/) |
+| [10_analyze_repeat_customers.py](scripts/10_analyze_repeat_customers.py) | Join customers and count distinct orders per buyer | 07 + raw customers | [Buyer KPIs](reports/tables/10_customer_kpis.csv) · [Top 10 customers](reports/tables/10_top_customers.csv) |
+| [11_rank_cities.py](scripts/11_rank_cities.py) | Rank city and state pairs by merchandise sales | 10 | [City sales](reports/tables/11_city_sales.csv) |
+| [12_rank_product_categories.py](scripts/12_rank_product_categories.py) | Join products and translations to delivered items, then reconcile category sales | 07 + raw items, products and translations | [Category sales](reports/tables/12_category_sales.csv) |
 
 ## Repository structure
 
-```text
-olist-ecommerce-sales-analysis/
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── data/
-│   ├── raw/                       # Extract the nine source CSVs here
-│   └── processed/                 # Clean tables from later stages
-├── scripts/
-│   └── 01_inspect_data.py
-├── reports/
-│   └── tables/
-│       ├── table_inventory.csv
-│       └── column_profile.csv
-├── assets/
-│   └── figures/                   # Charts for the management report
-└── docs/
-    └── 
-```
+| Folder | Contents |
+|:--|:--|
+| `data/raw/` | The nine original Olist CSVs, downloaded separately |
+| `data/processed/` | Intermediate order, delivery and customer tables generated locally |
+| `scripts/` | Twelve numbered scripts. The two shared modules contain paths and chart formatting |
+| `reports/tables/` | Small CSV reports. Files from steps 02–12 start with their step number |
+| `assets/figures/` | Exported charts grouped by the script that produced them |
 
 ## Next step
 
-Group orders by `order_status` and count missing values in `order_delivered_customer_date` within each group. Record both the count and the percentage. This tells us which rows need investigation before we measure delivery performance.
+Compare the order count and average order value in October and November 2017. Use the three monthly charts to explain the change in merchandise sales, then write one business recommendation that the figures support.

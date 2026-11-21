@@ -1,0 +1,7 @@
+check,count
+orders_before_join,99441
+orders_after_join,99441
+orders_with_items,98666
+orders_without_items,775
+negative_prices,0
+negative_freight,0
