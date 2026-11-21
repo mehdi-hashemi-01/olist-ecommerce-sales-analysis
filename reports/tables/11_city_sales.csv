@@ -1319,8 +1319,8 @@ PB,juru,1,1,890.0,890.0,0.01
 MA,barra do corda,7,7,889.89,127.13,0.01
 SP,irapuru,6,6,889.48,148.25,0.01
 PB,cabedelo,6,6,888.95,148.16,0.01
-SP,lutecia,1,1,887.0,887.0,0.01
 GO,itaguari,1,1,887.0,887.0,0.01
+SP,lutecia,1,1,887.0,887.0,0.01
 MG,jordania,5,5,886.25,177.25,0.01
 SP,icem,9,8,885.97,98.44,0.01
 SP,urania,4,3,885.72,221.43,0.01
@@ -1363,8 +1363,8 @@ MG,bom sucesso,4,4,856.69,214.17,0.01
 SC,porto belo,9,9,856.32,95.15,0.01
 MG,brazopolis,6,6,856.13,142.69,0.01
 GO,goianira,8,8,853.81,106.73,0.01
-CE,santa quiteria,5,5,849.67,169.93,0.01
 SC,itapoa,9,9,849.67,94.41,0.01
+CE,santa quiteria,5,5,849.67,169.93,0.01
 SC,rodeio,7,7,849.66,121.38,0.01
 PR,faxinal,9,9,848.05,94.23,0.01
 RN,sao miguel,4,3,846.86,211.72,0.01
@@ -1426,13 +1426,13 @@ MG,sao goncalo do rio abaixo,6,6,802.2,133.7,0.01
 GO,itapuranga,6,6,800.88,133.48,0.01
 GO,santa rita do araguaia,7,7,800.25,114.32,0.01
 BA,canavieiras,6,6,799.8,133.3,0.01
-BA,barra do choca,3,3,799.0,266.33,0.01
 TO,sandolandia,1,1,799.0,799.0,0.01
+BA,barra do choca,3,3,799.0,266.33,0.01
 PR,cidade gaucha,5,5,798.39,159.68,0.01
 RS,tapes,6,6,797.35,132.89,0.01
 BA,arataca,1,1,795.0,795.0,0.01
-SC,alfredo wagner,2,2,794.8,397.4,0.01
 MG,pecanha,4,4,794.8,198.7,0.01
+SC,alfredo wagner,2,2,794.8,397.4,0.01
 SP,igarapava,7,7,791.09,113.01,0.01
 PI,regeneracao,6,6,790.97,131.83,0.01
 ES,itarana,3,3,789.37,263.12,0.01
@@ -1689,8 +1689,8 @@ BA,sobradinho,5,5,592.69,118.54,0.0
 SP,fernando prestes,6,6,591.48,98.58,0.0
 SC,petrolandia,5,3,589.85,117.97,0.0
 SP,paulo de faria,5,5,588.58,117.72,0.0
-BA,coronel joao sa,3,3,587.99,196.0,0.0
 SC,passo de torres,7,7,587.99,84.0,0.0
+BA,coronel joao sa,3,3,587.99,196.0,0.0
 PR,morretes,3,3,587.98,195.99,0.0
 MG,lagoa dourada,5,5,586.78,117.36,0.0
 CE,senador pompeu,4,4,585.94,146.49,0.0
@@ -1739,8 +1739,8 @@ PR,paulo frontin,5,4,560.9,112.18,0.0
 SC,campo ere,7,7,560.6,80.09,0.0
 SP,paranapanema,11,10,560.45,50.95,0.0
 ES,marechal floriano,5,5,559.64,111.93,0.0
-PB,desterro,1,1,559.0,559.0,0.0
 SE,nossa senhora das dores,1,1,559.0,559.0,0.0
+PB,desterro,1,1,559.0,559.0,0.0
 CE,paraipaba,5,4,558.97,111.79,0.0
 CE,itaitinga,3,3,558.9,186.3,0.0
 RJ,rio das flores,6,6,558.68,93.11,0.0
@@ -1915,8 +1915,8 @@ MG,congonhal,4,4,455.84,113.96,0.0
 RN,acu,2,2,455.59,227.8,0.0
 MG,santa maria do suacui,2,2,454.9,227.45,0.0
 PE,floresta,6,5,454.58,75.76,0.0
-MG,cachoeira de minas,6,6,454.5,75.75,0.0
 RS,entre-ijuis,3,3,454.5,151.5,0.0
+MG,cachoeira de minas,6,6,454.5,75.75,0.0
 MG,caputira,2,2,454.28,227.14,0.0
 CE,icapui,5,5,454.25,90.85,0.0
 CE,caririacu,2,2,454.0,227.0,0.0
@@ -1932,8 +1932,8 @@ PA,vila dos cabanos,4,4,451.23,112.81,0.0
 SC,sao martinho,2,2,451.0,225.5,0.0
 CE,boa viagem,3,3,450.99,150.33,0.0
 MA,tutoia,2,2,449.89,224.94,0.0
-MT,dom aquino,3,3,449.8,149.93,0.0
 BA,pintadas,2,2,449.8,224.9,0.0
+MT,dom aquino,3,3,449.8,149.93,0.0
 RJ,engenheiro paulo de frontin,6,6,449.12,74.85,0.0
 MG,itueta,2,2,448.89,224.44,0.0
 BA,mutuipe,4,4,448.79,112.2,0.0
@@ -1968,8 +1968,8 @@ MG,ipiacu,3,3,429.88,143.29,0.0
 MA,carolina,2,2,429.8,214.9,0.0
 BA,arembepe,2,2,429.7,214.85,0.0
 DF,taguatinga,4,3,429.1,107.28,0.0
-RS,nova palma,2,2,428.9,214.45,0.0
 PE,serrita,2,2,428.9,214.45,0.0
+RS,nova palma,2,2,428.9,214.45,0.0
 MG,cachoeira de pajeu,3,3,428.8,142.93,0.0
 MS,bodoquena,2,1,428.0,214.0,0.0
 SC,dionisio cerqueira,3,3,428.0,142.67,0.0
@@ -2026,8 +2026,8 @@ PI,bertolinia,1,1,411.0,411.0,0.0
 PE,brejo da madre de deus,4,4,410.8,102.7,0.0
 BA,lagoa real,1,1,410.0,410.0,0.0
 MT,porto alegre do norte,1,1,410.0,410.0,0.0
-BA,jucurucu,2,2,409.98,204.99,0.0
 AC,senador guiomard,2,2,409.98,204.99,0.0
+BA,jucurucu,2,2,409.98,204.99,0.0
 RS,aurea,2,2,409.5,204.75,0.0
 MG,rodeiro,3,2,409.4,136.47,0.0
 SC,mondai,2,2,409.0,204.5,0.0
@@ -2047,8 +2047,8 @@ SP,silveiras,3,3,406.5,135.5,0.0
 RJ,glicerio,2,2,405.99,203.0,0.0
 PA,capitao poco,3,3,405.38,135.13,0.0
 GO,pontalina,2,1,405.0,202.5,0.0
-BA,rodelas,3,3,404.9,134.97,0.0
 ES,itaoca,2,2,404.9,202.45,0.0
+BA,rodelas,3,3,404.9,134.97,0.0
 RS,sao paulo das missoes,2,2,404.87,202.44,0.0
 SP,panorama,5,5,404.39,80.88,0.0
 PA,tucuma,3,3,404.25,134.75,0.0
@@ -2063,9 +2063,9 @@ PE,ipubi,3,3,400.47,133.49,0.0
 BA,sao sebastiao do passe,5,5,399.89,79.98,0.0
 RS,mata,1,1,399.85,399.85,0.0
 RO,sao miguel do guapore,4,3,399.44,99.86,0.0
-BA,ibitira,1,1,399.0,399.0,0.0
 PA,itupiranga,1,1,399.0,399.0,0.0
 SP,embauba,1,1,399.0,399.0,0.0
+BA,ibitira,1,1,399.0,399.0,0.0
 RN,sao miguel do gostoso,2,2,398.9,199.45,0.0
 PR,nova santa rosa,4,4,398.88,99.72,0.0
 SP,riolandia,3,3,398.8,132.93,0.0
@@ -2089,8 +2089,8 @@ CE,jardim,2,2,392.65,196.32,0.0
 MG,dom silverio,4,4,392.24,98.06,0.0
 MG,chapada gaucha,4,4,391.69,97.92,0.0
 PR,diamante do norte,5,5,391.25,78.25,0.0
-BA,iraquara,5,5,390.8,78.16,0.0
 PR,carambei,3,3,390.8,130.27,0.0
+BA,iraquara,5,5,390.8,78.16,0.0
 CE,amanari,1,1,390.0,390.0,0.0
 SC,governador celso ramos,3,3,389.97,129.99,0.0
 PR,alto parana,2,2,389.9,194.95,0.0
@@ -2126,8 +2126,8 @@ MG,juruaia,6,5,380.78,63.46,0.0
 MG,virgolandia,2,2,380.0,190.0,0.0
 SP,irape,2,1,379.98,189.99,0.0
 AL,anadia,2,2,379.89,189.94,0.0
-CE,ipu,4,4,379.88,94.97,0.0
 SC,balneario arroio do silva,4,4,379.88,94.97,0.0
+CE,ipu,4,4,379.88,94.97,0.0
 BA,bonito,2,2,378.8,189.4,0.0
 MG,manga,3,3,378.8,126.27,0.0
 RS,tupancireta,4,3,378.77,94.69,0.0
@@ -2171,19 +2171,19 @@ MG,santa rita de minas,3,3,367.67,122.56,0.0
 MG,francisco badaro,3,3,367.46,122.49,0.0
 PE,canhotinho,2,2,367.0,183.5,0.0
 ES,agua doce do norte,4,4,365.48,91.37,0.0
-MG,guidoval,2,2,364.9,182.45,0.0
 PR,santa tereza do oeste,3,3,364.9,121.63,0.0
+MG,guidoval,2,2,364.9,182.45,0.0
 SC,rio do oeste,3,3,364.89,121.63,0.0
 RJ,santanesia,4,4,364.5,91.12,0.0
 MG,itau de minas,5,5,364.45,72.89,0.0
 RN,acari,1,1,364.0,364.0,0.0
-ES,pedro canario,5,5,363.79,72.76,0.0
 PR,japira,3,3,363.79,121.26,0.0
+ES,pedro canario,5,5,363.79,72.76,0.0
 MG,itinga,3,3,363.5,121.17,0.0
 RS,maximiliano de almeida,3,3,363.49,121.16,0.0
 MG,madre de deus de minas,3,3,362.96,120.99,0.0
-PE,camocim de sao felix,2,2,362.9,181.45,0.0
 MG,santa margarida,2,2,362.9,181.45,0.0
+PE,camocim de sao felix,2,2,362.9,181.45,0.0
 MG,piedade do rio grande,3,3,362.78,120.93,0.0
 PR,maripa,3,3,361.97,120.66,0.0
 MA,barreirinhas,4,4,361.42,90.36,0.0
@@ -2195,10 +2195,10 @@ RO,alvorada d'oeste,1,1,359.98,359.98,0.0
 MG,sao joao batista do gloria,3,3,359.6,119.87,0.0
 CE,chorozinho,1,1,359.0,359.0,0.0
 MG,abadia dos dourados,3,3,358.9,119.63,0.0
-SP,alvaro de carvalho,2,2,358.0,179.0,0.0
 MG,taquaracu de minas,2,2,358.0,179.0,0.0
-PE,afranio,2,2,357.9,178.95,0.0
+SP,alvaro de carvalho,2,2,358.0,179.0,0.0
 SP,ribeirao do sul,3,3,357.9,119.3,0.0
+PE,afranio,2,2,357.9,178.95,0.0
 MT,peixoto de azevedo,4,4,357.7,89.42,0.0
 BA,morpara,2,2,357.12,178.56,0.0
 MG,goncalves,3,3,356.9,118.97,0.0
@@ -2225,10 +2225,10 @@ MG,serra dos aimores,5,5,351.82,70.36,0.0
 SP,tres fronteiras,5,5,350.39,70.08,0.0
 BA,ibipitanga,2,2,349.98,174.99,0.0
 TO,natividade,1,1,349.9,349.9,0.0
-AL,marechal deodoro,1,1,349.9,349.9,0.0
 MA,bequimao,1,1,349.9,349.9,0.0
-RS,boa vista das missoes,1,1,349.9,349.9,0.0
+AL,marechal deodoro,1,1,349.9,349.9,0.0
 AL,paripueira,1,1,349.9,349.9,0.0
+RS,boa vista das missoes,1,1,349.9,349.9,0.0
 RJ,governador portela,4,4,349.8,87.45,0.0
 CE,arneiroz,2,2,349.6,174.8,0.0
 MG,sao joao do paraiso,4,4,349.5,87.38,0.0
@@ -2284,8 +2284,8 @@ PR,santa monica,2,2,332.88,166.44,0.0
 SC,guaruja do sul,4,4,331.44,82.86,0.0
 PE,cumaru,2,2,330.99,165.5,0.0
 PR,pien,4,4,330.4,82.6,0.0
-RS,constantina,1,1,330.0,330.0,0.0
 PB,belem,1,1,330.0,330.0,0.0
+RS,constantina,1,1,330.0,330.0,0.0
 CE,monsenhor tabosa,3,3,329.8,109.93,0.0
 BA,tanque novo,3,3,329.59,109.86,0.0
 SP,iacanga,6,6,329.39,54.9,0.0
@@ -2297,17 +2297,17 @@ MT,arenapolis,2,2,328.85,164.42,0.0
 MG,sao goncalo do rio preto,3,3,328.19,109.4,0.0
 PR,ribeirao do pinhal,5,5,328.0,65.6,0.0
 PA,nova ipixuna,1,1,328.0,328.0,0.0
-SP,bento de abreu,2,2,327.98,163.99,0.0
 MG,jesuania,5,5,327.98,65.6,0.0
+SP,bento de abreu,2,2,327.98,163.99,0.0
 SP,lavinia,4,4,326.8,81.7,0.0
 RN,pendencias,2,2,326.5,163.25,0.0
 RN,goianinha,3,3,325.3,108.43,0.0
+BA,botupora,1,1,325.0,325.0,0.0
+BA,serrolandia,2,2,325.0,162.5,0.0
+CE,jucas,1,1,325.0,325.0,0.0
+RN,montanhas,1,1,325.0,325.0,0.0
 BA,pedrao,1,1,325.0,325.0,0.0
 MG,vieiras,1,1,325.0,325.0,0.0
-CE,jucas,1,1,325.0,325.0,0.0
-BA,serrolandia,2,2,325.0,162.5,0.0
-RN,montanhas,1,1,325.0,325.0,0.0
-BA,botupora,1,1,325.0,325.0,0.0
 SP,arapei,2,2,324.89,162.44,0.0
 MG,tabuleiro,2,2,324.89,162.44,0.0
 MT,campinapolis,3,2,324.86,108.29,0.0
@@ -2318,9 +2318,9 @@ AL,porto calvo,2,2,323.39,161.7,0.0
 RS,sao jose do hortencio,2,2,322.89,161.44,0.0
 BA,cordeiros,1,1,322.75,322.75,0.0
 MG,campestre,3,3,321.7,107.23,0.0
-RS,caibate,1,1,319.9,319.9,0.0
 MA,sucupira do norte,2,2,319.9,159.95,0.0
 MT,juruena,3,3,319.9,106.63,0.0
+RS,caibate,1,1,319.9,319.9,0.0
 AL,igaci,2,2,319.89,159.94,0.0
 PR,santa izabel do oeste,2,2,319.89,159.94,0.0
 GO,fazenda nova,4,4,319.79,79.95,0.0
@@ -2340,8 +2340,8 @@ MG,piranga,4,4,316.19,79.05,0.0
 ES,iconha,5,5,315.74,63.15,0.0
 MA,bacuri,3,2,315.42,105.14,0.0
 SC,tunapolis,1,1,315.39,315.39,0.0
-MA,coelho neto,3,2,314.9,104.97,0.0
 TO,sitio novo do tocantins,2,1,314.9,157.45,0.0
+MA,coelho neto,3,2,314.9,104.97,0.0
 MG,belo vale,3,3,313.8,104.6,0.0
 MG,conceicao das pedras,4,4,313.59,78.4,0.0
 MA,olho d'agua das cunhas,2,2,312.99,156.5,0.0
@@ -2357,8 +2357,8 @@ PE,tuparetama,3,3,309.8,103.27,0.0
 SC,monte carlo,3,2,309.5,103.17,0.0
 RS,sertao,3,3,309.49,103.16,0.0
 BA,vereda,2,2,309.4,154.7,0.0
-BA,pocoes,2,2,308.99,154.5,0.0
 PR,mariluz,2,2,308.99,154.5,0.0
+BA,pocoes,2,2,308.99,154.5,0.0
 BA,curaca,3,3,308.9,102.97,0.0
 SC,nova itaberaba,2,2,308.89,154.44,0.0
 PR,reserva,3,3,308.6,102.87,0.0
@@ -2368,8 +2368,8 @@ SP,ouro verde,3,3,307.97,102.66,0.0
 ES,conceicao da barra,3,3,306.87,102.29,0.0
 GO,mundo novo,2,2,306.0,153.0,0.0
 RS,sao martinho,1,1,305.99,305.99,0.0
-RS,imigrante,3,3,305.9,101.97,0.0
 PE,lagoa do ouro,2,2,305.9,152.95,0.0
+RS,imigrante,3,3,305.9,101.97,0.0
 MA,estreito,3,3,305.89,101.96,0.0
 SC,saudades,4,4,305.84,76.46,0.0
 SC,urubici,3,3,305.69,101.9,0.0
@@ -2382,15 +2382,15 @@ SC,anchieta,3,3,302.7,100.9,0.0
 MT,claudia,4,4,302.68,75.67,0.0
 SP,oscar bressane,3,3,301.8,100.6,0.0
 PA,viseu,1,1,301.0,301.0,0.0
-MA,centro novo do maranhao,1,1,299.99,299.99,0.0
 PE,pocao,1,1,299.99,299.99,0.0
+MA,centro novo do maranhao,1,1,299.99,299.99,0.0
 MT,ribeiraozinho,2,2,299.98,149.99,0.0
 RN,almino afonso,1,1,299.9,299.9,0.0
 SC,sideropolis,4,4,299.7,74.93,0.0
 MG,florestal,3,3,299.5,99.83,0.0
 BA,ibicoara,3,3,299.2,99.73,0.0
-PR,porto rico,1,1,299.0,299.0,0.0
 MG,iguatama,3,3,299.0,99.67,0.0
+PR,porto rico,1,1,299.0,299.0,0.0
 MG,pains,3,2,298.33,99.44,0.0
 MG,senador cortes,1,1,298.0,298.0,0.0
 MT,sao jose do rio claro,2,2,298.0,149.0,0.0
@@ -2408,8 +2408,8 @@ PR,angulo,3,3,294.7,98.23,0.0
 MG,carneirinho,3,3,294.5,98.17,0.0
 SC,irani,4,3,294.39,73.6,0.0
 MG,verissimo,3,3,294.12,98.04,0.0
-SP,barra do turvo,3,3,293.9,97.97,0.0
 BA,santa ines,3,3,293.9,97.97,0.0
+SP,barra do turvo,3,3,293.9,97.97,0.0
 PR,tibagi,4,4,293.77,73.44,0.0
 RS,planalto,3,3,292.99,97.66,0.0
 MS,ladario,4,4,292.69,73.17,0.0
@@ -2425,11 +2425,11 @@ RS,vila flores,3,3,289.89,96.63,0.0
 CE,maranguape,3,3,289.87,96.62,0.0
 SP,dumont,3,3,289.7,96.57,0.0
 SP,iepe,5,5,289.58,57.92,0.0
+BA,taboquinhas,1,1,289.0,289.0,0.0
 RN,sao jose do campestre,1,1,289.0,289.0,0.0
-SE,pirambu,1,1,289.0,289.0,0.0
 MG,laranjal,1,1,289.0,289.0,0.0
 MA,cajari,1,1,289.0,289.0,0.0
-BA,taboquinhas,1,1,289.0,289.0,0.0
+SE,pirambu,1,1,289.0,289.0,0.0
 BA,wanderley,2,2,288.98,144.49,0.0
 AC,xapuri,2,2,288.93,144.46,0.0
 SP,rechan,2,2,288.8,144.4,0.0
@@ -2449,8 +2449,8 @@ RO,sao francisco do guapore,2,2,284.9,142.45,0.0
 RJ,monnerat,2,2,284.84,142.42,0.0
 PB,coremas,3,3,284.69,94.9,0.0
 MG,perdigao,6,4,284.5,47.42,0.0
-ES,jeronimo monteiro,2,2,284.0,142.0,0.0
 MG,riacho dos machados,3,2,284.0,94.67,0.0
+ES,jeronimo monteiro,2,2,284.0,142.0,0.0
 PR,urai,3,3,283.9,94.63,0.0
 GO,leopoldo de bulhoes,1,1,283.02,283.02,0.0
 MG,porteirinha,5,5,282.69,56.54,0.0
@@ -2461,21 +2461,21 @@ SC,ipumirim,5,5,281.41,56.28,0.0
 MG,aiuruoca,4,4,281.09,70.27,0.0
 PE,itapetim,2,2,280.8,140.4,0.0
 SP,santo expedito,1,1,280.0,280.0,0.0
-TO,novo alegre,1,1,279.99,279.99,0.0
 MA,porto franco,2,2,279.99,140.0,0.0
-SP,americo de campos,1,1,279.9,279.9,0.0
+TO,novo alegre,1,1,279.99,279.99,0.0
 BA,coracao de maria,1,1,279.9,279.9,0.0
+SP,americo de campos,1,1,279.9,279.9,0.0
 MG,sao joao do oriente,2,2,279.9,139.95,0.0
 BA,bom jesus da serra,2,2,279.89,139.94,0.0
 BA,pilao arcado,4,4,279.87,69.97,0.0
 RS,formigueiro,2,2,279.8,139.9,0.0
 PR,renascenca,4,4,279.6,69.9,0.0
 MG,medeiros,2,2,279.49,139.74,0.0
-MS,paranhos,1,1,279.0,279.0,0.0
 RO,candeias do jamari,1,1,279.0,279.0,0.0
-SC,sao jose do cerrito,3,3,278.89,92.96,0.0
-RS,ibiaca,2,2,278.89,139.44,0.0
+MS,paranhos,1,1,279.0,279.0,0.0
 ES,vargem alta,5,5,278.89,55.78,0.0
+RS,ibiaca,2,2,278.89,139.44,0.0
+SC,sao jose do cerrito,3,3,278.89,92.96,0.0
 SC,ouro,1,1,278.79,278.79,0.0
 MG,campanario,2,2,278.7,139.35,0.0
 MG,cassia,6,6,278.29,46.38,0.0
@@ -2489,14 +2489,14 @@ BA,sao francisco do conde,3,3,276.8,92.27,0.0
 MG,ribeirao vermelho,2,2,275.7,137.85,0.0
 MG,itapeva,5,4,275.7,55.14,0.0
 SP,aguas de sao pedro,2,2,274.99,137.5,0.0
-BA,santaluz,3,3,274.89,91.63,0.0
 PR,serranopolis do iguacu,2,2,274.89,137.44,0.0
+BA,santaluz,3,3,274.89,91.63,0.0
 PR,ivate,3,3,273.98,91.33,0.0
 GO,pirenopolis,4,4,273.87,68.47,0.0
 MS,miranda,4,4,273.8,68.45,0.0
 SP,vista alegre do alto,3,3,272.99,91.0,0.0
-MS,itaquirai,2,2,272.9,136.45,0.0
 BA,barra do tarrachil,3,1,272.9,90.97,0.0
+MS,itaquirai,2,2,272.9,136.45,0.0
 BA,itiuba,4,4,272.89,68.22,0.0
 SP,pardinho,1,1,272.8,272.8,0.0
 PR,perola,2,2,272.74,136.37,0.0
@@ -2509,13 +2509,13 @@ MG,vargem grande do rio pardo,1,1,270.0,270.0,0.0
 MG,santana da vargem,4,4,269.95,67.49,0.0
 PB,alagoinha,2,2,269.9,134.95,0.0
 CE,ipaumirim,1,1,269.9,269.9,0.0
-PR,itambe,1,1,269.9,269.9,0.0
 BA,angical,1,1,269.9,269.9,0.0
+PR,itambe,1,1,269.9,269.9,0.0
 PR,itambaraca,2,2,269.8,134.9,0.0
 MG,papagaios,4,3,269.67,67.42,0.0
 BA,itamari,3,3,268.98,89.66,0.0
-PB,frei martinho,2,2,268.9,134.45,0.0
 PI,buriti dos lopes,2,2,268.9,134.45,0.0
+PB,frei martinho,2,2,268.9,134.45,0.0
 RS,monte alverne,1,1,268.0,268.0,0.0
 PE,vicencia,2,2,268.0,134.0,0.0
 SC,jabora,2,2,267.9,133.95,0.0
@@ -2523,8 +2523,8 @@ PE,pedra,3,3,267.68,89.23,0.0
 MG,inimutaba,2,2,266.7,133.35,0.0
 ES,alto rio novo,2,2,266.5,133.25,0.0
 PR,janiopolis,3,3,265.97,88.66,0.0
-MG,cabeceira grande,3,2,265.89,88.63,0.0
 MG,setubinha,3,3,265.89,88.63,0.0
+MG,cabeceira grande,3,2,265.89,88.63,0.0
 GO,maurilandia,4,4,265.63,66.41,0.0
 MG,itapagipe,5,5,265.49,53.1,0.0
 MG,recreio,3,3,264.98,88.33,0.0
@@ -2545,13 +2545,13 @@ RS,arvorezinha,4,3,262.5,65.62,0.0
 RS,nova alvorada,3,3,261.8,87.27,0.0
 SC,jacinto machado,4,4,260.49,65.12,0.0
 RS,capao do cipo,3,3,260.0,86.67,0.0
-MT,feliz natal,1,1,259.99,259.99,0.0
 SP,trabiju,1,1,259.99,259.99,0.0
 AL,uniao dos palmares,1,1,259.99,259.99,0.0
+MT,feliz natal,1,1,259.99,259.99,0.0
 MG,goiabeira,2,2,259.98,129.99,0.0
 MA,paraibano,3,3,259.91,86.64,0.0
-PE,santa terezinha,1,1,259.9,259.9,0.0
 PR,salto do itarare,1,1,259.9,259.9,0.0
+PE,santa terezinha,1,1,259.9,259.9,0.0
 PE,itambe,3,3,259.88,86.63,0.0
 ES,mucurici,1,1,259.8,259.8,0.0
 PR,borrazopolis,2,2,259.59,129.8,0.0
@@ -2600,8 +2600,8 @@ MG,divinesia,1,1,249.9,249.9,0.0
 CE,cedro,1,1,249.9,249.9,0.0
 PE,cortes,2,2,249.89,124.94,0.0
 MA,campestre do maranhao,2,2,249.89,124.94,0.0
-SP,potim,2,2,249.8,124.9,0.0
 RS,glorinha,2,2,249.8,124.9,0.0
+SP,potim,2,2,249.8,124.9,0.0
 BA,itaguacu da bahia,1,1,249.7,249.7,0.0
 SE,brejo grande,1,1,249.0,249.0,0.0
 SC,riqueza,3,3,248.9,82.97,0.0
@@ -2632,11 +2632,11 @@ RJ,sao jose do turvo,3,3,240.7,80.23,0.0
 MG,carvalhopolis,3,3,240.33,80.11,0.0
 RN,galinhos,1,1,240.0,240.0,0.0
 RS,osvaldo kroeff,1,1,239.99,239.99,0.0
-MG,araponga,2,2,239.9,119.95,0.0
 MG,santo antonio do grama,2,2,239.9,119.95,0.0
+MG,araponga,2,2,239.9,119.95,0.0
 PB,junco do serido,2,2,239.89,119.94,0.0
-MA,candido mendes,1,1,239.8,239.8,0.0
 CE,pentecoste,2,2,239.8,119.9,0.0
+MA,candido mendes,1,1,239.8,239.8,0.0
 SP,manduri,3,3,239.62,79.87,0.0
 AL,sao luis do quitunde,2,2,239.3,119.65,0.0
 BA,pau brasil,1,1,239.2,239.2,0.0
@@ -2652,13 +2652,13 @@ RN,serra de sao bento,2,2,236.9,118.45,0.0
 GO,paranaiguara,3,3,236.89,78.96,0.0
 SP,rosana,4,4,236.6,59.15,0.0
 MG,jampruca,1,1,235.9,235.9,0.0
+BA,caraibas,1,1,235.9,235.9,0.0
 MG,caiana,3,3,235.9,78.63,0.0
 PI,piracuruca,2,2,235.9,117.95,0.0
-BA,caraibas,1,1,235.9,235.9,0.0
 TO,pedro afonso,3,3,235.89,78.63,0.0
 SP,arandu,3,3,235.6,78.53,0.0
-SE,neopolis,1,1,235.0,235.0,0.0
 PE,buique,1,1,235.0,235.0,0.0
+SE,neopolis,1,1,235.0,235.0,0.0
 PE,joaquim nabuco,4,4,234.87,58.72,0.0
 MT,porto esperidiao,2,2,234.8,117.4,0.0
 BA,presidente tancredo neves,4,4,234.68,58.67,0.0
@@ -2677,28 +2677,28 @@ SP,santo antonio do jardim,4,4,231.03,57.76,0.0
 PE,moreilandia,2,2,230.9,115.45,0.0
 PE,flores,1,1,230.7,230.7,0.0
 SP,mendonca,4,4,230.37,57.59,0.0
-AL,canapi,1,1,230.0,230.0,0.0
-BA,itanhem,1,1,230.0,230.0,0.0
-BA,itape,1,1,230.0,230.0,0.0
-PE,quipapa,1,1,230.0,230.0,0.0
 MG,mamonas,1,1,230.0,230.0,0.0
-TO,silvanopolis,1,1,229.99,229.99,0.0
+BA,itanhem,1,1,230.0,230.0,0.0
+AL,canapi,1,1,230.0,230.0,0.0
+PE,quipapa,1,1,230.0,230.0,0.0
+BA,itape,1,1,230.0,230.0,0.0
 RN,barauna,1,1,229.99,229.99,0.0
+TO,silvanopolis,1,1,229.99,229.99,0.0
 RS,boa vista do burica,1,1,229.99,229.99,0.0
-RN,japi,1,1,229.9,229.9,0.0
-RN,tenente ananias,1,1,229.9,229.9,0.0
-RN,sao paulo do potengi,2,2,229.9,114.95,0.0
 RJ,portela,1,1,229.9,229.9,0.0
+RN,tenente ananias,1,1,229.9,229.9,0.0
 CE,iracema,2,2,229.9,114.95,0.0
+RN,sao paulo do potengi,2,2,229.9,114.95,0.0
+RN,japi,1,1,229.9,229.9,0.0
 MG,itamogi,2,2,229.9,114.95,0.0
 MG,bonfim,4,4,229.84,57.46,0.0
 SP,espirito santo do turvo,2,2,229.7,114.85,0.0
 SP,sete barras,4,4,229.69,57.42,0.0
 RS,ciriaco,1,1,229.0,229.0,0.0
-AL,piacabucu,2,1,228.9,114.45,0.0
 PE,sao jose do belmonte,2,2,228.9,114.45,0.0
-MG,santana do manhuacu,3,3,228.89,76.3,0.0
+AL,piacabucu,2,1,228.9,114.45,0.0
 PA,benevides,2,2,228.89,114.44,0.0
+MG,santana do manhuacu,3,3,228.89,76.3,0.0
 PA,sao joao de pirabas,2,2,228.89,114.44,0.0
 MG,alpercata,2,2,228.8,114.4,0.0
 SE,tomar do geru,2,2,228.79,114.4,0.0
@@ -2775,10 +2775,10 @@ SC,meleiro,3,3,210.8,70.27,0.0
 RS,vale real,3,3,210.53,70.18,0.0
 SP,guapiara,3,3,210.29,70.1,0.0
 MG,cristiano otoni,2,2,210.2,105.1,0.0
-SE,tobias barreto,2,2,209.99,105.0,0.0
 RS,santo expedito do sul,1,1,209.99,209.99,0.0
 RS,gramado dos loureiros,1,1,209.99,209.99,0.0
 PE,terra nova,1,1,209.99,209.99,0.0
+SE,tobias barreto,2,2,209.99,105.0,0.0
 RS,acegua,2,2,209.9,104.95,0.0
 SP,coroados,2,2,209.9,104.95,0.0
 RS,morro redondo,1,1,209.9,209.9,0.0
@@ -2786,8 +2786,8 @@ PR,lupionopolis,2,2,209.75,104.88,0.0
 SP,ribeira,3,3,209.28,69.76,0.0
 MG,imbe de minas,2,2,209.0,104.5,0.0
 PR,santo antonio do sudoeste,3,3,208.95,69.65,0.0
-SC,passos maia,2,2,208.9,104.45,0.0
 MG,leandro ferreira,2,2,208.9,104.45,0.0
+SC,passos maia,2,2,208.9,104.45,0.0
 RS,manoel viana,3,3,208.79,69.6,0.0
 MG,cristais,3,3,208.7,69.57,0.0
 SP,santa ernestina,2,2,208.16,104.08,0.0
@@ -2819,32 +2819,32 @@ PR,boa vista da aparecida,4,4,202.47,50.62,0.0
 SP,flora rica,1,1,200.0,200.0,0.0
 SP,pinheiros,1,1,199.99,199.99,0.0
 MA,guimaraes,1,1,199.99,199.99,0.0
+PB,uirauna,1,1,199.9,199.9,0.0
+PR,bom jesus do sul,1,1,199.9,199.9,0.0
+GO,cumari,2,2,199.9,99.95,0.0
 BA,monte gordo,1,1,199.9,199.9,0.0
 CE,dourado,1,1,199.9,199.9,0.0
-GO,cumari,2,2,199.9,99.95,0.0
-PR,bom jesus do sul,1,1,199.9,199.9,0.0
-PB,uirauna,1,1,199.9,199.9,0.0
 PR,nova cantu,2,2,199.9,99.95,0.0
 MG,bom jesus do amparo,1,1,199.89,199.89,0.0
 RO,colorado do oeste,3,3,199.88,66.63,0.0
 MG,guaraciaba,2,2,199.8,99.9,0.0
 SP,mirante do paranapanema,3,2,199.7,66.57,0.0
-MG,macuco de minas,1,1,199.0,199.0,0.0
-MG,capitao andrade,1,1,199.0,199.0,0.0
 MG,andrequice,1,1,199.0,199.0,0.0
-SC,santa rosa do sul,1,1,199.0,199.0,0.0
 GO,palminopolis,1,1,199.0,199.0,0.0
+MG,macuco de minas,1,1,199.0,199.0,0.0
+MA,alto alegre do pindare,1,1,199.0,199.0,0.0
 RS,fontoura xavier,1,1,199.0,199.0,0.0
-RN,lagoa de velhos,1,1,199.0,199.0,0.0
 PB,curral de cima,1,1,199.0,199.0,0.0
 SP,galia,1,1,199.0,199.0,0.0
+MG,capitao andrade,1,1,199.0,199.0,0.0
 MG,morro da garca,1,1,199.0,199.0,0.0
 PE,calcado,1,1,199.0,199.0,0.0
-MA,alto alegre do pindare,1,1,199.0,199.0,0.0
+SC,santa rosa do sul,1,1,199.0,199.0,0.0
+RN,lagoa de velhos,1,1,199.0,199.0,0.0
+PR,tunas do parana,2,2,198.9,99.45,0.0
 PB,fagundes,1,1,198.9,198.9,0.0
 MG,capetinga,2,2,198.9,99.45,0.0
 RN,francisco dantas,1,1,198.9,198.9,0.0
-PR,tunas do parana,2,2,198.9,99.45,0.0
 PA,sao sebastiao da boa vista,2,2,198.9,99.45,0.0
 SP,zacarias,2,2,198.8,99.4,0.0
 SP,irapua,4,4,198.8,49.7,0.0
@@ -2860,16 +2860,16 @@ PR,flor da serra do sul,2,2,197.1,98.55,0.0
 GO,diorama,2,1,196.87,98.44,0.0
 RS,salto do jacui,4,4,196.36,49.09,0.0
 MG,conceicao do formoso,1,1,195.99,195.99,0.0
-MG,cachoeira do brumado,1,1,195.9,195.9,0.0
 BA,urucuca,2,2,195.9,97.95,0.0
+MG,cachoeira do brumado,1,1,195.9,195.9,0.0
 MG,piumhi,3,3,195.73,65.24,0.0
 GO,padre bernardo,4,4,195.7,48.92,0.0
 PR,itaipulandia,6,6,195.17,32.53,0.0
 AC,manoel urbano,1,1,194.99,194.99,0.0
 PI,campo alegre do fidalgo,1,1,194.98,194.98,0.0
 PR,ipora,2,2,194.89,97.44,0.0
-TO,couto de magalhaes,2,2,194.89,97.44,0.0
 SC,turvo,4,4,194.89,48.72,0.0
+TO,couto de magalhaes,2,2,194.89,97.44,0.0
 BA,presidente dutra,3,3,194.8,64.93,0.0
 PR,sao joao do ivai,2,2,193.9,96.95,0.0
 SP,lourdes,2,2,193.7,96.85,0.0
@@ -2883,19 +2883,19 @@ MG,divisa alegre,2,2,190.99,95.5,0.0
 MG,santana do deserto,1,1,190.9,190.9,0.0
 MG,moema,1,1,189.99,189.99,0.0
 SP,botelho,1,1,189.98,189.98,0.0
-MG,berizal,1,1,189.9,189.9,0.0
 SC,sao bernardino,1,1,189.9,189.9,0.0
-MS,vicentina,1,1,189.9,189.9,0.0
 MG,ressaquinha,1,1,189.9,189.9,0.0
+MG,berizal,1,1,189.9,189.9,0.0
+MS,vicentina,1,1,189.9,189.9,0.0
 BA,olindina,2,2,189.89,94.94,0.0
 CE,iraucuba,2,2,189.89,94.94,0.0
-MT,curvelandia,1,1,189.0,189.0,0.0
 CE,tururu,1,1,189.0,189.0,0.0
+MT,curvelandia,1,1,189.0,189.0,0.0
 RS,santo antonio do planalto,1,1,189.0,189.0,0.0
 PA,curralinho,1,1,188.76,188.76,0.0
+PR,wenceslau braz,2,2,188.0,94.0,0.0
 CE,erere,1,1,188.0,188.0,0.0
 PA,ipixuna do para,2,2,188.0,94.0,0.0
-PR,wenceslau braz,2,2,188.0,94.0,0.0
 MG,bugre,1,1,187.9,187.9,0.0
 PR,paraiso do norte,3,2,187.82,62.61,0.0
 RS,ararica,2,2,187.0,93.5,0.0
@@ -2920,26 +2920,26 @@ SC,santa rosa de lima,3,2,180.15,60.05,0.0
 PB,sao jose dos cordeiros,1,1,180.0,180.0,0.0
 MG,arantina,1,1,180.0,180.0,0.0
 PA,santa barbara do para,1,1,179.96,179.96,0.0
+AL,porto de pedras,1,1,179.9,179.9,0.0
 SP,aparecida de monte alto,1,1,179.9,179.9,0.0
 BA,saubara,1,1,179.9,179.9,0.0
-GO,campinacu,1,1,179.9,179.9,0.0
 SE,japoata,1,1,179.9,179.9,0.0
-AL,porto de pedras,1,1,179.9,179.9,0.0
+GO,campinacu,1,1,179.9,179.9,0.0
 SP,alambari,3,3,179.88,59.96,0.0
 PI,redencao do gurgueia,1,1,179.8,179.8,0.0
 BA,xique-xique,3,3,179.79,59.93,0.0
 SP,engenheiro balduino,1,1,179.6,179.6,0.0
 MG,senador amaral,2,1,179.46,89.73,0.0
 RS,salvador do sul,1,1,179.0,179.0,0.0
+CE,fortim,1,1,179.0,179.0,0.0
 PR,palmital,1,1,179.0,179.0,0.0
 RS,mato leitao,2,2,179.0,89.5,0.0
 BA,cipo,1,1,179.0,179.0,0.0
-CE,fortim,1,1,179.0,179.0,0.0
 MA,pocao de pedras,1,1,179.0,179.0,0.0
-SC,campo alegre,2,2,178.9,89.45,0.0
 MG,fruta de leite,2,2,178.9,89.45,0.0
-MA,sambaiba,1,1,178.9,178.9,0.0
 SE,umbauba,3,3,178.9,59.63,0.0
+MA,sambaiba,1,1,178.9,178.9,0.0
+SC,campo alegre,2,2,178.9,89.45,0.0
 PA,oeiras do para,2,2,178.65,89.32,0.0
 SP,santa rita d'oeste,3,3,178.57,59.52,0.0
 PR,paranacity,3,3,178.15,59.38,0.0
@@ -2954,24 +2954,24 @@ SC,rio das antas,2,2,176.8,88.4,0.0
 GO,corumbaiba,4,4,176.8,44.2,0.0
 SP,arealva,3,3,176.69,58.9,0.0
 SC,xavantina,2,2,176.02,88.01,0.0
-RS,nonoai,2,2,175.9,87.95,0.0
 MA,bom jesus das selvas,2,2,175.9,87.95,0.0
+RS,nonoai,2,2,175.9,87.95,0.0
 GO,campo alegre de goias,2,2,175.89,87.94,0.0
 MG,tiros,3,3,175.89,58.63,0.0
 MG,chacara,2,2,175.7,87.85,0.0
 BA,sao jose da vitoria,2,2,175.65,87.82,0.0
 CE,frecheirinha,2,2,175.09,87.54,0.0
 BA,palmeiras,2,2,174.95,87.48,0.0
-MT,nortelandia,1,1,174.9,174.9,0.0
-BA,canudos,1,1,174.9,174.9,0.0
-ES,celina,2,2,174.9,87.45,0.0
 MA,carutapera,2,2,174.9,87.45,0.0
-SC,quilombo,4,4,174.78,43.7,0.0
+MT,nortelandia,1,1,174.9,174.9,0.0
+ES,celina,2,2,174.9,87.45,0.0
+BA,canudos,1,1,174.9,174.9,0.0
 MG,sao joao da mata,2,2,174.78,87.39,0.0
+SC,quilombo,4,4,174.78,43.7,0.0
 BA,belo campo,3,3,174.47,58.16,0.0
 RN,poco de pedra,1,1,174.0,174.0,0.0
-SE,macambira,1,1,173.9,173.9,0.0
 CE,sao luis do curu,2,2,173.9,86.95,0.0
+SE,macambira,1,1,173.9,173.9,0.0
 RS,ipe,2,2,173.9,86.95,0.0
 SP,estrela do norte,3,3,173.79,57.93,0.0
 MG,sao miguel do anta,1,1,173.59,173.59,0.0
@@ -2982,25 +2982,25 @@ MG,ladainha,2,2,171.14,85.57,0.0
 MG,claraval,1,1,171.0,171.0,0.0
 SP,santa barbara d oeste,4,4,170.92,42.73,0.0
 RS,tres arroios,3,3,170.27,56.76,0.0
-PI,isaias coelho,1,1,170.0,170.0,0.0
 RN,lagoa d'anta,1,1,170.0,170.0,0.0
-PE,sao vicente ferrer,1,1,169.99,169.99,0.0
-RN,ipueira,1,1,169.99,169.99,0.0
-MG,desembargador otoni,1,1,169.99,169.99,0.0
-MG,serra bonita,1,1,169.99,169.99,0.0
-MG,pequi,1,1,169.99,169.99,0.0
-RJ,ibitioca,1,1,169.99,169.99,0.0
+PI,isaias coelho,1,1,170.0,170.0,0.0
 BA,apuarema,1,1,169.99,169.99,0.0
+MG,pequi,1,1,169.99,169.99,0.0
+RN,ipueira,1,1,169.99,169.99,0.0
+RJ,ibitioca,1,1,169.99,169.99,0.0
+MG,desembargador otoni,1,1,169.99,169.99,0.0
+PE,sao vicente ferrer,1,1,169.99,169.99,0.0
+MG,serra bonita,1,1,169.99,169.99,0.0
 CE,deputado irapuan pinheiro,2,2,169.98,84.99,0.0
 RS,miraguai,1,1,169.97,169.97,0.0
 BA,sao miguel das matas,1,1,169.94,169.94,0.0
-RS,herval,1,1,169.9,169.9,0.0
-MG,ipuiuna,1,1,169.9,169.9,0.0
-SC,arroio trinta,1,1,169.9,169.9,0.0
-BA,america dourada,1,1,169.9,169.9,0.0
 MG,felicio dos santos,1,1,169.9,169.9,0.0
-PE,correntes,1,1,169.9,169.9,0.0
+SC,arroio trinta,1,1,169.9,169.9,0.0
 BA,pindobacu,3,3,169.9,56.63,0.0
+PE,correntes,1,1,169.9,169.9,0.0
+BA,america dourada,1,1,169.9,169.9,0.0
+MG,ipuiuna,1,1,169.9,169.9,0.0
+RS,herval,1,1,169.9,169.9,0.0
 MG,sao roque de minas,2,2,169.89,84.94,0.0
 GO,carmo do rio verde,2,2,169.89,84.94,0.0
 SP,emilianopolis,2,1,169.85,84.93,0.0
@@ -3010,18 +3010,18 @@ MG,azurita,3,3,169.7,56.57,0.0
 MG,sao goncalo do rio das pedras,1,1,169.0,169.0,0.0
 BA,itaparica,1,1,168.49,168.49,0.0
 SP,sao joao de iracema,3,3,168.38,56.13,0.0
-BA,brotas de macaubas,1,1,168.0,168.0,0.0
 MT,nova olimpia,2,2,168.0,84.0,0.0
+BA,brotas de macaubas,1,1,168.0,168.0,0.0
 PR,alto alegre,2,2,167.99,84.0,0.0
 PR,abatia,3,3,167.89,55.96,0.0
 RS,david canabarro,2,2,167.88,83.94,0.0
 BA,teolandia,4,4,167.8,41.95,0.0
 MT,cotriguacu,2,2,167.66,83.83,0.0
 BA,aramari,2,1,167.4,83.7,0.0
-RJ,sao joao do paraiso,1,1,166.99,166.99,0.0
-ES,piacu,1,1,166.99,166.99,0.0
 RJ,purilandia,1,1,166.99,166.99,0.0
 MA,parnarama,1,1,166.99,166.99,0.0
+ES,piacu,1,1,166.99,166.99,0.0
+RJ,sao joao do paraiso,1,1,166.99,166.99,0.0
 MG,luz,2,2,166.9,83.45,0.0
 PR,ventania,3,3,166.77,55.59,0.0
 SP,porangaba,2,2,166.39,83.2,0.0
@@ -3043,8 +3043,8 @@ SC,jaguaruna,2,2,162.9,81.45,0.0
 TO,alianca do tocantins,2,2,162.79,81.4,0.0
 RS,macambara,2,2,162.74,81.37,0.0
 MG,ibertioga,1,1,162.5,162.5,0.0
-PI,luzilandia,3,3,161.8,53.93,0.0
 MG,nazareno,2,2,161.8,80.9,0.0
+PI,luzilandia,3,3,161.8,53.93,0.0
 PE,panelas,2,2,161.79,80.9,0.0
 MG,rio preto,4,4,161.68,40.42,0.0
 AL,lagoa da canoa,1,1,160.99,160.99,0.0
@@ -3053,22 +3053,22 @@ PR,jaboti,2,2,160.7,80.35,0.0
 PR,santa amelia,1,1,160.0,160.0,0.0
 ES,santo antonio do canaa,1,1,160.0,160.0,0.0
 PE,santa filomena,1,1,160.0,160.0,0.0
-GO,sao joao da parauna,1,1,159.99,159.99,0.0
-CE,itapage,1,1,159.99,159.99,0.0
 PI,baixa grande do ribeiro,1,1,159.99,159.99,0.0
-RN,jose da penha,1,1,159.99,159.99,0.0
-SC,romelandia,1,1,159.99,159.99,0.0
+CE,itapage,1,1,159.99,159.99,0.0
+GO,sao joao da parauna,1,1,159.99,159.99,0.0
 PB,pedras de fogo,2,2,159.99,80.0,0.0
+SC,romelandia,1,1,159.99,159.99,0.0
+RN,jose da penha,1,1,159.99,159.99,0.0
 SE,itaporanga d'ajuda,1,1,159.99,159.99,0.0
 ES,pancas,1,1,159.94,159.94,0.0
-PB,triunfo,1,1,159.9,159.9,0.0
-RN,governador dix-sept rosado,1,1,159.9,159.9,0.0
 AL,monteiropolis,1,1,159.9,159.9,0.0
-PR,marilandia do sul,1,1,159.9,159.9,0.0
+PB,triunfo,1,1,159.9,159.9,0.0
 GO,mimoso de goias,1,1,159.9,159.9,0.0
-MG,santa fe de minas,1,1,159.9,159.9,0.0
+PR,marilandia do sul,1,1,159.9,159.9,0.0
 PR,rio verde,1,1,159.9,159.9,0.0
 PB,areial,1,1,159.9,159.9,0.0
+MG,santa fe de minas,1,1,159.9,159.9,0.0
+RN,governador dix-sept rosado,1,1,159.9,159.9,0.0
 RN,alexandria,2,2,159.8,79.9,0.0
 BA,muritiba,1,1,159.49,159.49,0.0
 GO,jesupolis,2,2,159.33,79.67,0.0
@@ -3095,19 +3095,19 @@ SP,nova campina,2,2,156.5,78.25,0.0
 RS,lagoao,1,1,156.45,156.45,0.0
 RS,bossoroca,1,1,155.99,155.99,0.0
 PI,campo grande do piaui,1,1,155.99,155.99,0.0
-AL,barra de sao miguel,2,2,155.98,77.99,0.0
 RS,sao vendelino,2,2,155.98,77.99,0.0
+AL,barra de sao miguel,2,2,155.98,77.99,0.0
 CE,massape,2,2,155.9,77.95,0.0
 RS,campina das missoes,2,2,155.8,77.9,0.0
 PR,salgado filho,3,3,155.7,51.9,0.0
 PI,conceicao do caninde,1,1,155.44,155.44,0.0
-SC,picarras,1,1,155.0,155.0,0.0
 PA,novo repartimento,2,2,155.0,77.5,0.0
+SC,picarras,1,1,155.0,155.0,0.0
 PR,mariopolis,1,1,154.99,154.99,0.0
 PR,sapopema,2,2,154.98,77.49,0.0
 BA,itabatan,2,2,154.98,77.49,0.0
-BA,iramaia,2,2,154.9,77.45,0.0
 SP,aguas de santa barbara,3,3,154.9,51.63,0.0
+BA,iramaia,2,2,154.9,77.45,0.0
 MA,mirinzal,3,3,154.87,51.62,0.0
 MG,sao joao do manhuacu,2,2,154.8,77.4,0.0
 MG,porto firme,2,2,153.61,76.8,0.0
@@ -3121,41 +3121,41 @@ GO,agua fria de goias,1,1,152.0,152.0,0.0
 MA,buriti,1,1,151.79,151.79,0.0
 PR,eneas marques,4,4,151.68,37.92,0.0
 CE,chaval,1,1,150.0,150.0,0.0
-PI,pio ix,1,1,149.99,149.99,0.0
-MG,urucuia,1,1,149.99,149.99,0.0
 PB,aroeiras,1,1,149.99,149.99,0.0
+MG,urucuia,1,1,149.99,149.99,0.0
 SP,tecainda,1,1,149.99,149.99,0.0
 MA,jatoba,1,1,149.99,149.99,0.0
-CE,guassusse,1,1,149.9,149.9,0.0
+PI,pio ix,1,1,149.99,149.99,0.0
+PI,alegrete do piaui,1,1,149.9,149.9,0.0
 RS,ivora,1,1,149.9,149.9,0.0
-MG,mendonca,1,1,149.9,149.9,0.0
-MG,guiricema,1,1,149.9,149.9,0.0
+CE,guassusse,1,1,149.9,149.9,0.0
+BA,jaua,1,1,149.9,149.9,0.0
+RN,sao jose do serido,1,1,149.9,149.9,0.0
 MG,rio espera,1,1,149.9,149.9,0.0
 GO,cocalzinho de goias,1,1,149.9,149.9,0.0
-PB,remigio,1,1,149.9,149.9,0.0
 RN,sitio novo,1,1,149.9,149.9,0.0
 RO,cabixi,1,1,149.9,149.9,0.0
-PB,santa cecilia,1,1,149.9,149.9,0.0
-RN,sao jose do serido,1,1,149.9,149.9,0.0
-BA,jaua,1,1,149.9,149.9,0.0
 BA,presidente janio quadros,1,1,149.9,149.9,0.0
+PB,santa cecilia,1,1,149.9,149.9,0.0
 PI,sao jose do piaui,1,1,149.9,149.9,0.0
-PI,alegrete do piaui,1,1,149.9,149.9,0.0
+PB,remigio,1,1,149.9,149.9,0.0
+MG,guiricema,1,1,149.9,149.9,0.0
+MG,mendonca,1,1,149.9,149.9,0.0
 MG,perpetuo socorro,2,2,149.89,74.95,0.0
 PR,luiziana,2,2,149.85,74.92,0.0
 CE,pacoti,2,2,149.8,74.9,0.0
 MT,nova canaa do norte,3,3,149.78,49.93,0.0
 SC,belmonte,1,1,149.7,149.7,0.0
-MG,dom joaquim,1,1,149.0,149.0,0.0
-MT,santo antonio do leste,1,1,149.0,149.0,0.0
-MG,urucania,1,1,149.0,149.0,0.0
+RJ,bom jesus do querendo,1,1,149.0,149.0,0.0
 MG,ribeiro junqueira,1,1,149.0,149.0,0.0
 MG,piracema,1,1,149.0,149.0,0.0
-PR,quatro pontes,1,1,149.0,149.0,0.0
-RS,ibarama,1,1,149.0,149.0,0.0
-RJ,bom jesus do querendo,1,1,149.0,149.0,0.0
+MT,santo antonio do leste,1,1,149.0,149.0,0.0
 BA,heliopolis,1,1,149.0,149.0,0.0
+MG,urucania,1,1,149.0,149.0,0.0
+RS,ibarama,1,1,149.0,149.0,0.0
 MG,simao pereira,1,1,149.0,149.0,0.0
+MG,dom joaquim,1,1,149.0,149.0,0.0
+PR,quatro pontes,1,1,149.0,149.0,0.0
 SC,sao domingos,2,2,148.99,74.5,0.0
 GO,cachoeira dourada,2,2,148.9,74.45,0.0
 PA,mae do rio,2,2,148.89,74.44,0.0
@@ -3167,20 +3167,20 @@ MG,paiva,2,2,146.2,73.1,0.0
 SP,caiua,2,2,146.0,73.0,0.0
 MG,ritapolis,3,3,145.69,48.56,0.0
 RS,esmeralda,1,1,145.0,145.0,0.0
-RS,vespasiano correa,1,1,144.99,144.99,0.0
 BA,candeal,1,1,144.99,144.99,0.0
+RS,vespasiano correa,1,1,144.99,144.99,0.0
 PE,macaparana,2,2,144.88,72.44,0.0
 RS,putinga,2,2,144.8,72.4,0.0
 GO,aruana,2,1,144.8,72.4,0.0
 CE,carire,3,3,144.79,48.26,0.0
 RN,patu,3,3,144.49,48.16,0.0
 BA,ubata,1,1,144.0,144.0,0.0
+GO,mara rosa,2,2,143.9,71.95,0.0
 BA,barra,2,2,143.9,71.95,0.0
 MG,turvolandia,2,2,143.9,71.95,0.0
-GO,mara rosa,2,2,143.9,71.95,0.0
-RS,santa barbara do sul,2,2,143.8,71.9,0.0
 PR,ourizona,1,1,143.8,143.8,0.0
 BA,nova fatima,1,1,143.8,143.8,0.0
+RS,santa barbara do sul,2,2,143.8,71.9,0.0
 SP,santa maria da serra,2,2,143.64,71.82,0.0
 PE,capoeiras,1,1,143.0,143.0,0.0
 SP,lucianopolis,2,2,142.9,71.45,0.0
@@ -3192,25 +3192,25 @@ RS,vila langaro,3,3,140.64,46.88,0.0
 RJ,visconde de maua,3,2,140.59,46.86,0.0
 MT,salto do ceu,2,2,140.39,70.2,0.0
 CE,varzea alegre,2,2,140.29,70.14,0.0
+SC,paial,1,1,139.99,139.99,0.0
 BA,jussari,2,2,139.99,70.0,0.0
 PB,alagoa grande,1,1,139.99,139.99,0.0
-SC,paial,1,1,139.99,139.99,0.0
 PI,ilha grande,1,1,139.9,139.9,0.0
-BA,cravolandia,1,1,139.9,139.9,0.0
-MG,brejo bonito,1,1,139.9,139.9,0.0
-RS,sao joao da urtiga,1,1,139.9,139.9,0.0
 MG,central de santa helena,1,1,139.9,139.9,0.0
+MG,brejo bonito,1,1,139.9,139.9,0.0
+BA,cravolandia,1,1,139.9,139.9,0.0
+RS,sao joao da urtiga,1,1,139.9,139.9,0.0
 RS,alto alegre,1,1,139.9,139.9,0.0
 BA,tabocas do brejo velho,3,3,139.88,46.63,0.0
 PR,sao clemente,1,1,139.8,139.8,0.0
-RJ,tres irmaos,1,1,139.8,139.8,0.0
 MG,sao geraldo da piedade,1,1,139.8,139.8,0.0
+RJ,tres irmaos,1,1,139.8,139.8,0.0
 MG,prudente de morais,2,1,139.0,69.5,0.0
+PB,caldas brandao,1,1,139.0,139.0,0.0
 PR,adhemar de barros,1,1,139.0,139.0,0.0
 MG,angustura,1,1,139.0,139.0,0.0
-PR,jardim olinda,1,1,139.0,139.0,0.0
 BA,abrantes,1,1,139.0,139.0,0.0
-PB,caldas brandao,1,1,139.0,139.0,0.0
+PR,jardim olinda,1,1,139.0,139.0,0.0
 BA,dario meira,2,2,138.99,69.5,0.0
 GO,simolandia,2,2,138.99,69.5,0.0
 BA,oliveira dos brejinhos,2,2,138.9,69.45,0.0
@@ -3219,17 +3219,17 @@ PR,itaguaje,2,2,138.8,69.4,0.0
 MA,satubinha,2,2,138.79,69.4,0.0
 MG,senador firmino,2,2,138.57,69.28,0.0
 PR,clevelandia,3,3,138.5,46.17,0.0
-PR,iguatu,1,1,137.9,137.9,0.0
 MA,pastos bons,2,2,137.9,68.95,0.0
+PR,iguatu,1,1,137.9,137.9,0.0
 BA,itapicuru,2,2,137.33,68.66,0.0
 MT,gaucha do norte,2,2,136.48,68.24,0.0
 MG,pirajuba,1,1,135.9,135.9,0.0
 PB,cubati,2,2,135.89,67.95,0.0
 MS,bataipora,1,1,135.3,135.3,0.0
 TO,centenario,1,1,134.99,134.99,0.0
-PE,quixada,1,1,134.9,134.9,0.0
-SP,estrela d oeste,1,1,134.9,134.9,0.0
 PR,ibema,1,1,134.9,134.9,0.0
+SP,estrela d oeste,1,1,134.9,134.9,0.0
+PE,quixada,1,1,134.9,134.9,0.0
 MG,matutina,2,2,134.89,67.45,0.0
 BA,pindai,2,2,134.8,67.4,0.0
 MG,carrancas,3,3,134.79,44.93,0.0
@@ -3238,8 +3238,8 @@ ES,jacigua,2,2,134.49,67.24,0.0
 SP,lupercio,3,3,133.79,44.6,0.0
 GO,urutai,3,3,133.48,44.49,0.0
 MT,itiquira,1,1,133.0,133.0,0.0
-CE,madalena,1,1,132.9,132.9,0.0
 PI,agua branca,2,2,132.9,66.45,0.0
+CE,madalena,1,1,132.9,132.9,0.0
 MG,silvianopolis,3,2,132.5,44.17,0.0
 SC,caibi,3,3,132.05,44.02,0.0
 SP,nossa senhora do remedio,2,2,131.9,65.95,0.0
@@ -3247,59 +3247,59 @@ ES,iuna,2,2,131.0,65.5,0.0
 BA,correntina,2,2,130.99,65.5,0.0
 RS,seberi,2,2,130.39,65.2,0.0
 SC,ipira,2,2,130.2,65.1,0.0
-PB,inga,1,1,130.0,130.0,0.0
 SC,lajeado grande,1,1,130.0,130.0,0.0
-PE,agua preta,1,1,129.99,129.99,0.0
-AL,luziapolis,1,1,129.99,129.99,0.0
-RN,carnauba dos dantas,1,1,129.99,129.99,0.0
-PR,cruzeiro do iguacu,1,1,129.99,129.99,0.0
-RS,chiapetta,1,1,129.99,129.99,0.0
-PA,floresta do araguaia,1,1,129.99,129.99,0.0
+PB,inga,1,1,130.0,130.0,0.0
 MG,ibiracatu,1,1,129.99,129.99,0.0
-GO,sao luiz do norte,1,1,129.99,129.99,0.0
 PR,maua da serra,2,2,129.99,65.0,0.0
+PA,floresta do araguaia,1,1,129.99,129.99,0.0
+AL,luziapolis,1,1,129.99,129.99,0.0
+PR,cruzeiro do iguacu,1,1,129.99,129.99,0.0
+RN,carnauba dos dantas,1,1,129.99,129.99,0.0
+GO,sao luiz do norte,1,1,129.99,129.99,0.0
+RS,chiapetta,1,1,129.99,129.99,0.0
+PE,agua preta,1,1,129.99,129.99,0.0
 MG,orizania,1,1,129.95,129.95,0.0
 MG,grupiara,1,1,129.94,129.94,0.0
-CE,flores,1,1,129.9,129.9,0.0
-PB,araruna,1,1,129.9,129.9,0.0
 RN,riacho da cruz,1,1,129.9,129.9,0.0
-MT,porto estrela,1,1,129.9,129.9,0.0
 PA,murucupi,1,1,129.9,129.9,0.0
-MG,itatiaiucu,2,2,129.9,64.95,0.0
-PB,riacho de santo antonio,1,1,129.9,129.9,0.0
+MT,porto estrela,1,1,129.9,129.9,0.0
 BA,itagimirim,1,1,129.9,129.9,0.0
 PR,amapora,2,2,129.9,64.95,0.0
-CE,araripe,1,1,129.6,129.6,0.0
+MG,itatiaiucu,2,2,129.9,64.95,0.0
+CE,flores,1,1,129.9,129.9,0.0
+PB,araruna,1,1,129.9,129.9,0.0
+PB,riacho de santo antonio,1,1,129.9,129.9,0.0
 PB,nova floresta,1,1,129.6,129.6,0.0
+CE,araripe,1,1,129.6,129.6,0.0
 TO,araguacu,1,1,129.5,129.5,0.0
-TO,carmolandia,1,1,129.0,129.0,0.0
 BA,mundo novo,1,1,129.0,129.0,0.0
 MG,corrego fundo,1,1,129.0,129.0,0.0
-MG,paula candido,1,1,129.0,129.0,0.0
-SP,alfredo marcondes,1,1,129.0,129.0,0.0
-MG,comercinho,1,1,129.0,129.0,0.0
-PR,boa esperanca,1,1,129.0,129.0,0.0
 SP,jeriquara,1,1,129.0,129.0,0.0
+MG,paula candido,1,1,129.0,129.0,0.0
+TO,carmolandia,1,1,129.0,129.0,0.0
+MG,comercinho,1,1,129.0,129.0,0.0
+SP,alfredo marcondes,1,1,129.0,129.0,0.0
+PR,boa esperanca,1,1,129.0,129.0,0.0
 PR,grandes rios,2,2,128.99,64.5,0.0
 MT,castanheira,3,3,128.98,42.99,0.0
 MG,santa cruz do prata,2,2,128.9,64.45,0.0
 ES,brejetuba,1,1,128.89,128.89,0.0
 MT,poxoreu,2,2,128.57,64.28,0.0
 MA,sao domingos do maranhao,2,2,127.89,63.94,0.0
-PR,farol,1,1,126.99,126.99,0.0
-GO,corumba de goias,2,2,126.99,63.5,0.0
 SC,angelina,1,1,126.99,126.99,0.0
-PE,jatauba,2,2,126.89,63.45,0.0
+GO,corumba de goias,2,2,126.99,63.5,0.0
+PR,farol,1,1,126.99,126.99,0.0
 BA,itagiba,2,2,126.89,63.45,0.0
+PE,jatauba,2,2,126.89,63.45,0.0
 RS,barao de cotegipe,2,1,126.89,63.44,0.0
 SP,jaborandi,3,3,126.29,42.1,0.0
 MG,piau,2,2,125.89,62.94,0.0
 SC,abdon batista,1,1,125.4,125.4,0.0
 SP,natividade da serra,1,1,125.0,125.0,0.0
-BA,sao desiderio,1,1,125.0,125.0,0.0
-RS,charrua,1,1,125.0,125.0,0.0
-RS,mariano moro,1,1,125.0,125.0,0.0
 MT,tapurah,1,1,125.0,125.0,0.0
+BA,sao desiderio,1,1,125.0,125.0,0.0
+RS,mariano moro,1,1,125.0,125.0,0.0
+RS,charrua,1,1,125.0,125.0,0.0
 MG,inhauma,2,2,124.98,62.49,0.0
 BA,brejoes,1,1,124.9,124.9,0.0
 MG,carlos chagas,2,2,124.8,62.4,0.0
@@ -3308,10 +3308,10 @@ MG,coracao de jesus,3,3,123.9,41.3,0.0
 CE,barreira,1,1,123.89,123.89,0.0
 MT,juscimeira,2,2,123.8,61.9,0.0
 RS,maquine,1,1,122.99,122.99,0.0
-GO,aurilandia,1,1,122.99,122.99,0.0
-PR,santana,1,1,122.99,122.99,0.0
 RS,sao nicolau,1,1,122.99,122.99,0.0
 RN,felipe guerra,1,1,122.99,122.99,0.0
+PR,santana,1,1,122.99,122.99,0.0
+GO,aurilandia,1,1,122.99,122.99,0.0
 BA,ibirapua,1,1,122.99,122.99,0.0
 PE,caetes,1,1,122.9,122.9,0.0
 RS,protasio alves,2,2,122.9,61.45,0.0
@@ -3322,35 +3322,35 @@ TO,divinopolis do tocantins,1,1,120.99,120.99,0.0
 RO,mirante da serra,1,1,120.9,120.9,0.0
 GO,araguapaz,2,2,120.9,60.45,0.0
 SP,sao francisco,2,2,120.87,60.44,0.0
-PB,pitanga de estrada,1,1,120.0,120.0,0.0
-RN,severiano melo,1,1,120.0,120.0,0.0
-SC,nossa senhora de caravaggio,1,1,120.0,120.0,0.0
-MS,tacuru,1,1,120.0,120.0,0.0
-MG,passa tempo,1,1,120.0,120.0,0.0
-BA,biritinga,1,1,120.0,120.0,0.0
 MG,morro do ferro,1,1,120.0,120.0,0.0
+MS,tacuru,1,1,120.0,120.0,0.0
+PB,pitanga de estrada,1,1,120.0,120.0,0.0
 MA,miranda do norte,1,1,120.0,120.0,0.0
+MG,passa tempo,1,1,120.0,120.0,0.0
+RN,severiano melo,1,1,120.0,120.0,0.0
+BA,biritinga,1,1,120.0,120.0,0.0
+SC,nossa senhora de caravaggio,1,1,120.0,120.0,0.0
 TO,lajeado,1,1,120.0,120.0,0.0
 MG,sao joao das missoes,2,2,119.99,60.0,0.0
 PI,santa cruz do piaui,1,1,119.99,119.99,0.0
 RS,nova araca,1,1,119.99,119.99,0.0
 RS,erebango,1,1,119.99,119.99,0.0
-MG,cachoeira dourada,1,1,119.9,119.9,0.0
 SP,bora,1,1,119.9,119.9,0.0
-GO,ipiranga de goias,1,1,119.9,119.9,0.0
-CE,mucambo,1,1,119.9,119.9,0.0
 BA,wagner,1,1,119.9,119.9,0.0
-ES,vila nelita,2,2,119.9,59.95,0.0
+MG,cachoeira dourada,1,1,119.9,119.9,0.0
 MG,bela vista de minas,1,1,119.9,119.9,0.0
 MG,serranopolis de minas,1,1,119.9,119.9,0.0
 MG,sardoa,1,1,119.9,119.9,0.0
+GO,ipiranga de goias,1,1,119.9,119.9,0.0
+CE,mucambo,1,1,119.9,119.9,0.0
+ES,vila nelita,2,2,119.9,59.95,0.0
 RO,presidente medici,2,2,119.89,59.95,0.0
 MG,aracitaba,2,2,119.8,59.9,0.0
 PB,areia,2,2,119.8,59.9,0.0
-RS,silveira martins,1,1,119.8,119.8,0.0
+SC,morro grande,1,1,119.8,119.8,0.0
 MG,antunes,1,1,119.8,119.8,0.0
 RJ,sacra familia do tingua,1,1,119.8,119.8,0.0
-SC,morro grande,1,1,119.8,119.8,0.0
+RS,silveira martins,1,1,119.8,119.8,0.0
 SC,jose boiteux,1,1,119.7,119.7,0.0
 MG,ferros,2,2,119.6,59.8,0.0
 PB,bonito de santa fe,1,1,119.6,119.6,0.0
@@ -3360,17 +3360,17 @@ BA,saude,2,2,119.4,59.7,0.0
 BA,maiquinique,1,1,119.4,119.4,0.0
 MG,andrelandia,3,3,119.36,39.79,0.0
 MG,senador modestino goncalves,2,2,119.32,59.66,0.0
-SP,meridiano,1,1,119.0,119.0,0.0
-MA,araguana,1,1,119.0,119.0,0.0
-PR,sede alvorada,1,1,119.0,119.0,0.0
 MG,campo alegre de minas,1,1,119.0,119.0,0.0
 RS,andre da rocha,1,1,119.0,119.0,0.0
+PR,sede alvorada,1,1,119.0,119.0,0.0
+MA,araguana,1,1,119.0,119.0,0.0
+SP,meridiano,1,1,119.0,119.0,0.0
 PR,quinta do sol,3,3,118.99,39.66,0.0
-PR,sao jose da boa vista,1,1,118.99,118.99,0.0
 SC,sao cristovao do sul,1,1,118.99,118.99,0.0
-SC,treviso,1,1,118.9,118.9,0.0
+PR,sao jose da boa vista,1,1,118.99,118.99,0.0
 BA,ibitiara,1,1,118.9,118.9,0.0
 RS,alpestre,1,1,118.9,118.9,0.0
+SC,treviso,1,1,118.9,118.9,0.0
 RO,guajara-mirim,3,3,118.89,39.63,0.0
 MG,dionisio,2,2,118.8,59.4,0.0
 BA,barro preto,1,1,118.8,118.8,0.0
@@ -3380,13 +3380,13 @@ RO,cerejeiras,1,1,117.99,117.99,0.0
 RN,marcelino vieira,1,1,117.7,117.7,0.0
 MG,durande,2,2,117.49,58.74,0.0
 PR,iretama,1,1,117.3,117.3,0.0
-PR,sao pedro do iguacu,1,1,117.3,117.3,0.0
-SP,venda branca,1,1,117.3,117.3,0.0
-PR,rancho alegre d'oeste,1,1,117.3,117.3,0.0
 MG,sao geraldo do baguari,1,1,117.3,117.3,0.0
+SP,venda branca,1,1,117.3,117.3,0.0
+PR,sao pedro do iguacu,1,1,117.3,117.3,0.0
+PR,rancho alegre d'oeste,1,1,117.3,117.3,0.0
 MG,salto da divisa,2,2,116.98,58.49,0.0
-MG,senhora de oliveira,2,2,116.9,58.45,0.0
 MS,anastacio,2,2,116.9,58.45,0.0
+MG,senhora de oliveira,2,2,116.9,58.45,0.0
 MG,chale,2,2,116.4,58.2,0.0
 MG,careacu,2,2,116.13,58.06,0.0
 CE,quixelo,2,2,115.99,58.0,0.0
@@ -3394,24 +3394,24 @@ RS,coxilha,2,2,115.9,57.95,0.0
 TO,duere,1,1,115.9,115.9,0.0
 SP,jaci,2,2,115.89,57.94,0.0
 MG,presidente kubitschek,2,2,115.43,57.72,0.0
+TO,aparecida do rio negro,1,1,115.0,115.0,0.0
 PI,luis correia,1,1,115.0,115.0,0.0
 PI,lagoinha do piaui,1,1,115.0,115.0,0.0
-TO,aparecida do rio negro,1,1,115.0,115.0,0.0
 PR,cantagalo,2,2,114.99,57.5,0.0
 PE,sao domingos,1,1,114.94,114.94,0.0
 MG,cruzeiro da fortaleza,2,2,114.9,57.45,0.0
-TO,pugmil,1,1,114.9,114.9,0.0
 PI,bocaina,1,1,114.9,114.9,0.0
+TO,pugmil,1,1,114.9,114.9,0.0
 GO,domiciano ribeiro,2,2,114.89,57.44,0.0
 PB,conceicao,2,2,114.49,57.24,0.0
 SC,luiz alves,2,2,114.0,57.0,0.0
 MG,jacinto,2,2,113.99,57.0,0.0
 MA,chapadinha,3,3,113.88,37.96,0.0
 RN,lagoa nova,2,2,113.8,56.9,0.0
-MS,pedro gomes,1,1,113.0,113.0,0.0
-PB,alagoa nova,1,1,113.0,113.0,0.0
 MA,sao joao batista,1,1,113.0,113.0,0.0
+PB,alagoa nova,1,1,113.0,113.0,0.0
 PR,nova santa barbara,1,1,113.0,113.0,0.0
+MS,pedro gomes,1,1,113.0,113.0,0.0
 GO,aragoiania,1,1,112.9,112.9,0.0
 MG,estrela do indaia,2,2,112.8,56.4,0.0
 SP,presidente alves,2,2,112.61,56.3,0.0
@@ -3424,29 +3424,29 @@ RN,extremoz,2,2,111.79,55.9,0.0
 PR,manfrinopolis,1,1,111.0,111.0,0.0
 RS,lindolfo collor,1,1,110.9,110.9,0.0
 PR,ipiranga,3,2,110.89,36.96,0.0
-PB,lagoa,1,1,110.0,110.0,0.0
-CE,independencia,1,1,110.0,110.0,0.0
 PI,caldeirao grande do piaui,1,1,110.0,110.0,0.0
 BA,wenceslau guimaraes,1,1,110.0,110.0,0.0
+PB,lagoa,1,1,110.0,110.0,0.0
+CE,independencia,1,1,110.0,110.0,0.0
 MG,umburatiba,1,1,109.99,109.99,0.0
-PB,arara,1,1,109.9,109.9,0.0
-AL,sao jose da tapera,1,1,109.9,109.9,0.0
-CE,missi,1,1,109.9,109.9,0.0
-RN,jandaira,1,1,109.9,109.9,0.0
 RS,caseiros,1,1,109.9,109.9,0.0
 RS,ipiranga do sul,1,1,109.9,109.9,0.0
+RN,jandaira,1,1,109.9,109.9,0.0
+CE,missi,1,1,109.9,109.9,0.0
+AL,sao jose da tapera,1,1,109.9,109.9,0.0
+PB,arara,1,1,109.9,109.9,0.0
 SP,nova canaa paulista,2,2,109.89,54.95,0.0
 RS,sao francisco de assis,2,2,109.89,54.94,0.0
 CE,ocara,2,2,109.89,54.94,0.0
 CE,aiuaba,1,1,109.7,109.7,0.0
 RS,herveiras,1,1,109.0,109.0,0.0
-MG,japaraiba,1,1,108.9,108.9,0.0
 GO,arenopolis,1,1,108.9,108.9,0.0
+MG,japaraiba,1,1,108.9,108.9,0.0
 MG,francisco dumont,2,2,108.89,54.44,0.0
 TO,parana,2,2,108.88,54.44,0.0
 SP,tapirai,2,2,108.65,54.32,0.0
-SP,ajapi,1,1,108.0,108.0,0.0
 MG,itabirinha,1,1,108.0,108.0,0.0
+SP,ajapi,1,1,108.0,108.0,0.0
 PB,picui,2,2,107.99,54.0,0.0
 BA,canarana,1,1,107.9,107.9,0.0
 RS,capitao,1,1,107.8,107.8,0.0
@@ -3455,22 +3455,22 @@ MG,liberdade,3,3,107.23,35.74,0.0
 SP,mombuca,3,3,107.14,35.71,0.0
 TO,augustinopolis,1,1,107.0,107.0,0.0
 PA,santa maria do para,2,2,106.99,53.5,0.0
-MG,agua comprida,2,2,106.9,53.45,0.0
 SC,peritiba,2,2,106.9,53.45,0.0
 SP,anhembi,1,1,106.9,106.9,0.0
+MG,agua comprida,2,2,106.9,53.45,0.0
 MG,varjao de minas,2,2,105.8,52.9,0.0
 PI,itaueira,2,1,105.28,52.64,0.0
-MA,presidente medici,1,1,105.0,105.0,0.0
-MG,quatituba,1,1,105.0,105.0,0.0
-TO,colmeia,2,2,105.0,52.5,0.0
 PE,pombos,1,1,105.0,105.0,0.0
+TO,colmeia,2,2,105.0,52.5,0.0
+MG,quatituba,1,1,105.0,105.0,0.0
+MA,presidente medici,1,1,105.0,105.0,0.0
 AL,dois riachos,1,1,104.99,104.99,0.0
 RJ,conrado,1,1,104.9,104.9,0.0
 SP,rinopolis,2,2,104.89,52.44,0.0
 MG,santo hipolito,1,1,104.4,104.4,0.0
 ES,divino de sao lourenco,1,1,103.97,103.97,0.0
-MG,crisolita,2,2,103.9,51.95,0.0
 PR,tamarana,2,2,103.9,51.95,0.0
+MG,crisolita,2,2,103.9,51.95,0.0
 SC,lindoia do sul,1,1,103.9,103.9,0.0
 PR,california,2,2,103.8,51.9,0.0
 MG,pocoes de paineiras,1,1,102.89,102.89,0.0
@@ -3484,86 +3484,86 @@ MS,aquidauana,3,3,100.8,33.6,0.0
 BA,itubera,3,3,100.73,33.58,0.0
 CE,oros,2,2,100.65,50.32,0.0
 BA,dom basilio,3,3,100.28,33.43,0.0
-RS,fortaleza dos valos,1,1,100.0,100.0,0.0
 SP,rubineia,1,1,100.0,100.0,0.0
+RS,fortaleza dos valos,1,1,100.0,100.0,0.0
 MG,inconfidentes,2,2,99.99,50.0,0.0
-RN,tibau do sul,1,1,99.99,99.99,0.0
-MG,brasopolis,1,1,99.99,99.99,0.0
-SC,fragosos,1,1,99.99,99.99,0.0
-MG,silvano,1,1,99.99,99.99,0.0
-MG,bonito de minas,1,1,99.99,99.99,0.0
-SE,japaratuba,1,1,99.99,99.99,0.0
-RJ,mussurepe,1,1,99.99,99.99,0.0
-PE,nazare da mata,1,1,99.99,99.99,0.0
 MA,brejo,1,1,99.99,99.99,0.0
-SP,santa clara d'oeste,1,1,99.99,99.99,0.0
-MG,claro dos pocoes,1,1,99.99,99.99,0.0
-BA,campo alegre de lourdes,1,1,99.99,99.99,0.0
-RS,santa maria do herval,1,1,99.99,99.99,0.0
-BA,banzae,1,1,99.99,99.99,0.0
+PE,nazare da mata,1,1,99.99,99.99,0.0
 BA,barrocas,1,1,99.99,99.99,0.0
-PR,douradina,1,1,99.9,99.9,0.0
-MG,sao vitor,1,1,99.9,99.9,0.0
-MG,felisburgo,1,1,99.9,99.9,0.0
-BA,umburanas,1,1,99.9,99.9,0.0
-PE,orobo,1,1,99.9,99.9,0.0
-SC,frei rogerio,1,1,99.9,99.9,0.0
+MG,bonito de minas,1,1,99.99,99.99,0.0
+BA,campo alegre de lourdes,1,1,99.99,99.99,0.0
+BA,banzae,1,1,99.99,99.99,0.0
+RJ,mussurepe,1,1,99.99,99.99,0.0
+MG,claro dos pocoes,1,1,99.99,99.99,0.0
+RS,santa maria do herval,1,1,99.99,99.99,0.0
+MG,silvano,1,1,99.99,99.99,0.0
+SP,santa clara d'oeste,1,1,99.99,99.99,0.0
+RN,tibau do sul,1,1,99.99,99.99,0.0
+SE,japaratuba,1,1,99.99,99.99,0.0
+SC,fragosos,1,1,99.99,99.99,0.0
+MG,brasopolis,1,1,99.99,99.99,0.0
+AL,cajueiro,1,1,99.9,99.9,0.0
+RS,sao pedro do butia,1,1,99.9,99.9,0.0
 MG,coronel pacheco,1,1,99.9,99.9,0.0
+MG,olhos d'agua,1,1,99.9,99.9,0.0
 PA,nova timboteua,1,1,99.9,99.9,0.0
 SP,novais,1,1,99.9,99.9,0.0
 MT,nova ubirata,1,1,99.9,99.9,0.0
-RS,sao pedro do butia,1,1,99.9,99.9,0.0
-MG,olhos d'agua,1,1,99.9,99.9,0.0
+MG,sao vitor,1,1,99.9,99.9,0.0
+MG,felisburgo,1,1,99.9,99.9,0.0
+SC,frei rogerio,1,1,99.9,99.9,0.0
+PR,douradina,1,1,99.9,99.9,0.0
 CE,caridade,1,1,99.9,99.9,0.0
-AL,cajueiro,1,1,99.9,99.9,0.0
+BA,umburanas,1,1,99.9,99.9,0.0
+PE,orobo,1,1,99.9,99.9,0.0
 RN,rodolfo fernandes,2,2,99.89,49.94,0.0
-SP,getulina,2,2,99.8,49.9,0.0
 SC,zortea,2,2,99.8,49.9,0.0
+SP,getulina,2,2,99.8,49.9,0.0
 MG,alexandrita,1,1,99.8,99.8,0.0
 RN,vila flor,1,1,99.73,99.73,0.0
 AL,pilar,3,3,99.7,33.23,0.0
 TO,pindorama do tocantins,2,2,99.66,49.83,0.0
+MA,formosa da serra negra,1,1,99.0,99.0,0.0
+BA,conceicao do almeida,1,1,99.0,99.0,0.0
+BA,anguera,1,1,99.0,99.0,0.0
 CE,palhano,1,1,99.0,99.0,0.0
 DF,sobradinho,1,1,99.0,99.0,0.0
-BA,conceicao do almeida,1,1,99.0,99.0,0.0
 SP,paulistania,1,1,99.0,99.0,0.0
-MA,formosa da serra negra,1,1,99.0,99.0,0.0
 RS,barra do rio azul,1,1,99.0,99.0,0.0
-BA,anguera,1,1,99.0,99.0,0.0
 PB,varzea,1,1,98.99,98.99,0.0
 MG,varzelandia,2,2,98.89,49.44,0.0
 MT,sao felix do araguaia,1,1,98.8,98.8,0.0
-RS,sao pedro do sul,1,1,98.7,98.7,0.0
 BA,gentio do ouro,1,1,98.7,98.7,0.0
+RS,sao pedro do sul,1,1,98.7,98.7,0.0
 RS,barracao,2,2,98.49,49.24,0.0
 BA,governador mangabeira,1,1,98.0,98.0,0.0
+CE,jaguaribara,1,1,98.0,98.0,0.0
+PA,monte alegre,1,1,98.0,98.0,0.0
 MG,vermelho,1,1,98.0,98.0,0.0
 MA,lago verde,1,1,98.0,98.0,0.0
-PA,monte alegre,1,1,98.0,98.0,0.0
-CE,jaguaribara,1,1,98.0,98.0,0.0
 RJ,sao jose do ribeirao,1,1,97.9,97.9,0.0
-SP,aramina,1,1,97.9,97.9,0.0
 GO,barro alto,1,1,97.9,97.9,0.0
+SP,aramina,1,1,97.9,97.9,0.0
 BA,sitio do quinto,2,2,97.89,48.94,0.0
-MT,santo antonio do leverger,1,1,97.0,97.0,0.0
 RS,eugenio de castro,1,1,97.0,97.0,0.0
+MT,santo antonio do leverger,1,1,97.0,97.0,0.0
 TO,ananas,1,1,96.8,96.8,0.0
 MG,ingai,1,1,96.0,96.0,0.0
 MG,sao bras do suacui,2,2,95.99,48.0,0.0
 MA,benedito leite,1,1,95.9,95.9,0.0
 RS,aguas claras,1,1,95.8,95.8,0.0
 GO,planaltina de goias,2,1,95.6,47.8,0.0
+PE,ferreiros,1,1,95.0,95.0,0.0
+MT,ipiranga do norte,1,1,95.0,95.0,0.0
 CE,meruoca,2,2,95.0,47.5,0.0
 MA,sao benedito do rio preto,1,1,95.0,95.0,0.0
-MT,ipiranga do norte,1,1,95.0,95.0,0.0
-PE,ferreiros,1,1,95.0,95.0,0.0
 GO,goiandira,1,1,94.9,94.9,0.0
 SP,gaviao peixoto,2,2,94.89,47.44,0.0
 MG,patrocinio do muriae,2,2,94.8,47.4,0.0
 MS,caracol,1,1,94.0,94.0,0.0
 GO,portelandia,2,2,93.99,47.0,0.0
-PR,entre rios do oeste,3,3,93.89,31.3,0.0
 MA,boa vista do gurupi,2,2,93.89,46.94,0.0
+PR,entre rios do oeste,3,3,93.89,31.3,0.0
 PR,sao carlos do ivai,1,1,93.0,93.0,0.0
 SP,coronel macedo,2,2,92.9,46.45,0.0
 MG,vila pereira,1,1,92.8,92.8,0.0
@@ -3573,65 +3573,65 @@ BA,barro alto,2,2,91.99,46.0,0.0
 SP,monte castelo,1,1,91.5,91.5,0.0
 BA,planalto,1,1,91.0,91.0,0.0
 RS,quevedos,2,2,90.9,45.45,0.0
-PR,novo itacolomi,1,1,90.0,90.0,0.0
 MA,senador la rocque,1,1,90.0,90.0,0.0
 PB,manaira,1,1,90.0,90.0,0.0
+PR,novo itacolomi,1,1,90.0,90.0,0.0
 PB,brejo dos santos,1,1,89.99,89.99,0.0
-MG,vitorinos,1,1,89.99,89.99,0.0
-SP,tapinas,1,1,89.99,89.99,0.0
-MG,palmopolis,1,1,89.99,89.99,0.0
-TO,peixe,1,1,89.99,89.99,0.0
-MA,cajapio,1,1,89.99,89.99,0.0
 SP,pontes gestal,1,1,89.99,89.99,0.0
+MG,vitorinos,1,1,89.99,89.99,0.0
+MG,palmopolis,1,1,89.99,89.99,0.0
+MA,cajapio,1,1,89.99,89.99,0.0
 PR,paranapoema,1,1,89.99,89.99,0.0
-PR,marilena,1,1,89.99,89.99,0.0
 GO,britania,1,1,89.99,89.99,0.0
+TO,peixe,1,1,89.99,89.99,0.0
 MT,conquista d'oeste,1,1,89.99,89.99,0.0
-MG,estrela do sul,1,1,89.9,89.9,0.0
-GO,jaupaci,1,1,89.9,89.9,0.0
-PE,machados,1,1,89.9,89.9,0.0
-RN,coronel joao pessoa,1,1,89.9,89.9,0.0
-PR,guapirama,1,1,89.9,89.9,0.0
-PR,contenda,1,1,89.9,89.9,0.0
-ES,vargem grande do soturno,1,1,89.9,89.9,0.0
-PR,rancho alegre,1,1,89.9,89.9,0.0
-MA,santa rita,1,1,89.9,89.9,0.0
-ES,santa leopoldina,1,1,89.9,89.9,0.0
-MS,bandeirantes,1,1,89.9,89.9,0.0
-RO,cujubim,1,1,89.9,89.9,0.0
-MS,coronel sapucaia,1,1,89.9,89.9,0.0
+SP,tapinas,1,1,89.99,89.99,0.0
+PR,marilena,1,1,89.99,89.99,0.0
 PR,sao jorge d'oeste,1,1,89.9,89.9,0.0
-AL,coite do noia,1,1,89.9,89.9,0.0
 RR,bonfim,1,1,89.9,89.9,0.0
-MG,ilicinea,1,1,89.9,89.9,0.0
-SP,redencao da serra,1,1,89.9,89.9,0.0
-SP,riversul,1,1,89.9,89.9,0.0
-SE,itabi,1,1,89.9,89.9,0.0
-MG,lamim,1,1,89.9,89.9,0.0
-PR,bom sucesso,1,1,89.9,89.9,0.0
-PR,sao jorge do patrocinio,2,2,89.9,44.95,0.0
 BA,retirolandia,1,1,89.9,89.9,0.0
 MG,braunas,1,1,89.9,89.9,0.0
-ES,atilio vivacqua,1,1,89.9,89.9,0.0
-RS,pedras altas,1,1,89.9,89.9,0.0
+PR,contenda,1,1,89.9,89.9,0.0
 RJ,penedo,1,1,89.9,89.9,0.0
+RN,coronel joao pessoa,1,1,89.9,89.9,0.0
+PR,guapirama,1,1,89.9,89.9,0.0
+MG,estrela do sul,1,1,89.9,89.9,0.0
+RS,pedras altas,1,1,89.9,89.9,0.0
+RO,cujubim,1,1,89.9,89.9,0.0
+ES,atilio vivacqua,1,1,89.9,89.9,0.0
+ES,vargem grande do soturno,1,1,89.9,89.9,0.0
+GO,jaupaci,1,1,89.9,89.9,0.0
+PR,bom sucesso,1,1,89.9,89.9,0.0
+PE,machados,1,1,89.9,89.9,0.0
+SE,itabi,1,1,89.9,89.9,0.0
+ES,santa leopoldina,1,1,89.9,89.9,0.0
+PR,rancho alegre,1,1,89.9,89.9,0.0
+PR,sao jorge do patrocinio,2,2,89.9,44.95,0.0
+SP,redencao da serra,1,1,89.9,89.9,0.0
+MG,lamim,1,1,89.9,89.9,0.0
+MG,ilicinea,1,1,89.9,89.9,0.0
+MA,santa rita,1,1,89.9,89.9,0.0
+MS,coronel sapucaia,1,1,89.9,89.9,0.0
+AL,coite do noia,1,1,89.9,89.9,0.0
+MS,bandeirantes,1,1,89.9,89.9,0.0
+SP,riversul,1,1,89.9,89.9,0.0
 SP,macaubal,1,1,89.8,89.8,0.0
 SP,mogi-mirim,2,2,89.8,44.9,0.0
 MG,capela nova,1,1,89.77,89.77,0.0
 MG,fonseca,1,1,89.65,89.65,0.0
 AL,atalaia,1,1,89.58,89.58,0.0
 SC,aguas mornas,1,1,89.15,89.15,0.0
-SE,aquidaba,1,1,89.0,89.0,0.0
-PB,sao francisco,1,1,89.0,89.0,0.0
-PB,lucena,1,1,89.0,89.0,0.0
 PR,coronel domingos soares,1,1,89.0,89.0,0.0
-MG,arapua,1,1,89.0,89.0,0.0
-RS,vanini,1,1,89.0,89.0,0.0
 RS,general camara,1,1,89.0,89.0,0.0
+MG,arapua,1,1,89.0,89.0,0.0
+PB,sao francisco,1,1,89.0,89.0,0.0
 MG,taparuba,1,1,89.0,89.0,0.0
+SE,aquidaba,1,1,89.0,89.0,0.0
+RS,vanini,1,1,89.0,89.0,0.0
+PB,lucena,1,1,89.0,89.0,0.0
 MG,antonio pereira,2,2,88.99,44.5,0.0
-SP,sao pedro do turvo,2,2,88.9,44.45,0.0
 MA,alto alegre do maranhao,1,1,88.9,88.9,0.0
+SP,sao pedro do turvo,2,2,88.9,44.45,0.0
 DF,guara,2,1,88.79,44.4,0.0
 MG,goiana,3,2,88.7,29.57,0.0
 PE,xexeu,1,1,87.5,87.5,0.0
@@ -3639,26 +3639,26 @@ SE,carmopolis,2,2,87.31,43.66,0.0
 MG,uniao de minas,3,3,87.09,29.03,0.0
 RS,coqueiro baixo,2,2,86.99,43.5,0.0
 PR,pato bragado,2,2,86.7,43.35,0.0
-PB,sao mamede,1,1,86.0,86.0,0.0
 BA,varzea nova,1,1,86.0,86.0,0.0
+PB,sao mamede,1,1,86.0,86.0,0.0
 MA,moncao,1,1,85.99,85.99,0.0
 AP,vitoria do jari,1,1,85.95,85.95,0.0
 ES,novo brasil,1,1,85.9,85.9,0.0
 MG,bom jesus da penha,2,1,85.89,42.94,0.0
 PR,vila nova,2,2,85.47,42.74,0.0
 SP,piquerobi,1,1,85.0,85.0,0.0
-PE,santo antonio das queimadas,1,1,84.99,84.99,0.0
-PR,nova esperanca do sudoeste,1,1,84.99,84.99,0.0
-MG,major porto,1,1,84.99,84.99,0.0
-BA,cotegipe,1,1,84.99,84.99,0.0
-PI,lagoa do piaui,1,1,84.99,84.99,0.0
-RN,janduis,1,1,84.99,84.99,0.0
-PB,montadas,1,1,84.99,84.99,0.0
-MG,entre folhas,1,1,84.99,84.99,0.0
 RS,vila nova do sul,1,1,84.99,84.99,0.0
-PR,perola independente,1,1,84.9,84.9,0.0
+PE,santo antonio das queimadas,1,1,84.99,84.99,0.0
+PI,lagoa do piaui,1,1,84.99,84.99,0.0
+PB,montadas,1,1,84.99,84.99,0.0
+MG,major porto,1,1,84.99,84.99,0.0
+RN,janduis,1,1,84.99,84.99,0.0
+BA,cotegipe,1,1,84.99,84.99,0.0
+MG,entre folhas,1,1,84.99,84.99,0.0
+PR,nova esperanca do sudoeste,1,1,84.99,84.99,0.0
 BA,santa brigida,1,1,84.9,84.9,0.0
 PB,serra branca,1,1,84.9,84.9,0.0
+PR,perola independente,1,1,84.9,84.9,0.0
 GO,itaguaru,2,2,84.89,42.44,0.0
 TO,esperantina,1,1,84.44,84.44,0.0
 MG,guarda-mor,2,2,83.9,41.95,0.0
@@ -3682,79 +3682,79 @@ MA,sao joao do paraiso,1,1,80.04,80.04,0.0
 PB,assuncao,1,1,80.0,80.0,0.0
 PR,perobal,1,1,80.0,80.0,0.0
 SE,monte alegre de sergipe,1,1,80.0,80.0,0.0
+SC,coronel freitas,1,1,79.99,79.99,0.0
+RS,barao do triunfo,1,1,79.99,79.99,0.0
 RN,frutuoso gomes,1,1,79.99,79.99,0.0
+MG,ewbank da camara,1,1,79.99,79.99,0.0
 PE,cha de alegria,1,1,79.99,79.99,0.0
 SE,nossa senhora de lourdes,1,1,79.99,79.99,0.0
-SC,coronel freitas,1,1,79.99,79.99,0.0
 SP,iaras,1,1,79.99,79.99,0.0
-RS,barao do triunfo,1,1,79.99,79.99,0.0
-MG,ewbank da camara,1,1,79.99,79.99,0.0
 RS,monte belo do sul,1,1,79.98,79.98,0.0
 MG,materlandia,2,2,79.98,39.99,0.0
-MA,vargem grande,1,1,79.9,79.9,0.0
-AL,novo lino,1,1,79.9,79.9,0.0
-SP,ubirajara,1,1,79.9,79.9,0.0
-MG,campo azul,1,1,79.9,79.9,0.0
-BA,filadelfia,1,1,79.9,79.9,0.0
 BA,andarai,1,1,79.9,79.9,0.0
-ES,ponto belo,1,1,79.9,79.9,0.0
 MG,olaria,1,1,79.9,79.9,0.0
-MA,santa luzia do parua,1,1,79.9,79.9,0.0
-RS,dezesseis de novembro,1,1,79.9,79.9,0.0
-RS,rio dos indios,1,1,79.9,79.9,0.0
-ES,paraju,1,1,79.9,79.9,0.0
-PR,querencia do norte,1,1,79.9,79.9,0.0
+SP,ubirajara,1,1,79.9,79.9,0.0
 SC,paraiso,1,1,79.9,79.9,0.0
+PR,querencia do norte,1,1,79.9,79.9,0.0
+AL,novo lino,1,1,79.9,79.9,0.0
+MG,campo azul,1,1,79.9,79.9,0.0
+ES,paraju,1,1,79.9,79.9,0.0
+ES,ponto belo,1,1,79.9,79.9,0.0
+MA,vargem grande,1,1,79.9,79.9,0.0
+RS,rio dos indios,1,1,79.9,79.9,0.0
+MA,santa luzia do parua,1,1,79.9,79.9,0.0
+BA,filadelfia,1,1,79.9,79.9,0.0
+RS,dezesseis de novembro,1,1,79.9,79.9,0.0
 RS,santana da boa vista,2,2,79.89,39.94,0.0
 BA,elisio medrado,2,2,79.82,39.91,0.0
-CE,banabuiu,1,1,79.0,79.0,0.0
-PE,sao joaquim do monte,1,1,79.0,79.0,0.0
-SP,rincao,1,1,79.0,79.0,0.0
-SP,nantes,1,1,79.0,79.0,0.0
-RJ,santa rita da floresta,1,1,79.0,79.0,0.0
-GO,teresina de goias,1,1,79.0,79.0,0.0
-TO,praia norte,1,1,79.0,79.0,0.0
 RS,ipiranga,1,1,79.0,79.0,0.0
+GO,teresina de goias,1,1,79.0,79.0,0.0
 GO,divinopolis de goias,1,1,79.0,79.0,0.0
+CE,banabuiu,1,1,79.0,79.0,0.0
+RJ,santa rita da floresta,1,1,79.0,79.0,0.0
+SP,rincao,1,1,79.0,79.0,0.0
+PE,sao joaquim do monte,1,1,79.0,79.0,0.0
+TO,praia norte,1,1,79.0,79.0,0.0
+SP,nantes,1,1,79.0,79.0,0.0
 MG,sao francisco de paula,2,2,78.89,39.44,0.0
 SP,vargem,2,2,78.8,39.4,0.0
 PE,aracoiaba,2,2,78.67,39.34,0.0
 TO,almas,1,1,78.0,78.0,0.0
-SC,monte castelo,1,1,78.0,78.0,0.0
-PA,aurora do para,1,1,78.0,78.0,0.0
 PI,inhuma,1,1,78.0,78.0,0.0
-RS,sao jose do inhacora,1,1,77.99,77.99,0.0
+PA,aurora do para,1,1,78.0,78.0,0.0
+SC,monte castelo,1,1,78.0,78.0,0.0
 MG,santo antonio do aventureiro,1,1,77.99,77.99,0.0
+RS,sao jose do inhacora,1,1,77.99,77.99,0.0
 MT,figueiropolis d'oeste,2,2,77.98,38.99,0.0
-SE,cristinapolis,1,1,77.9,77.9,0.0
 MG,sapucaia,1,1,77.9,77.9,0.0
+SE,cristinapolis,1,1,77.9,77.9,0.0
 BA,paripiranga,2,2,77.71,38.86,0.0
 MG,alagoa,1,1,77.68,77.68,0.0
 MG,juvenilia,2,2,77.48,38.74,0.0
 SP,suzanapolis,1,1,76.9,76.9,0.0
 RS,augusto pestana,2,2,76.88,38.44,0.0
-SE,campo do brito,1,1,76.8,76.8,0.0
-MS,deodapolis,2,2,76.8,38.4,0.0
 MG,bras pires,2,2,76.8,38.4,0.0
+MS,deodapolis,2,2,76.8,38.4,0.0
+SE,campo do brito,1,1,76.8,76.8,0.0
 CE,antonina do norte,1,1,76.8,76.8,0.0
 MG,brasilandia de minas,1,1,76.25,76.25,0.0
 BA,aracatu,1,1,75.99,75.99,0.0
 AL,ibateguara,2,2,75.9,37.95,0.0
 PR,pirapo,1,1,75.27,75.27,0.0
+SP,nova guataporanga,1,1,75.0,75.0,0.0
+MS,jaraguari,2,2,75.0,37.5,0.0
 PB,jerico,1,1,75.0,75.0,0.0
 MG,felixlandia,1,1,75.0,75.0,0.0
-MS,jaraguari,2,2,75.0,37.5,0.0
-SP,nova guataporanga,1,1,75.0,75.0,0.0
 SP,guatapara,1,1,75.0,75.0,0.0
-MG,dom cavati,1,1,74.99,74.99,0.0
 MG,vargem alegre,1,1,74.99,74.99,0.0
-AC,porto acre,1,1,74.9,74.9,0.0
+MG,dom cavati,1,1,74.99,74.99,0.0
+SP,cassia dos coqueiros,1,1,74.9,74.9,0.0
+RS,lagoa dos tres cantos,1,1,74.9,74.9,0.0
 MG,nacip raydan,1,1,74.9,74.9,0.0
-SC,novo horizonte,1,1,74.9,74.9,0.0
 MG,frei gaspar,1,1,74.9,74.9,0.0
 PI,pedro ii,1,1,74.9,74.9,0.0
-RS,lagoa dos tres cantos,1,1,74.9,74.9,0.0
-SP,cassia dos coqueiros,1,1,74.9,74.9,0.0
+SC,novo horizonte,1,1,74.9,74.9,0.0
+AC,porto acre,1,1,74.9,74.9,0.0
 SP,espigao,2,2,74.89,37.44,0.0
 BA,adustina,1,1,74.8,74.8,0.0
 PR,alto alegre do iguacu,2,1,74.7,37.35,0.0
@@ -3763,9 +3763,9 @@ RS,santo antonio do palma,2,2,73.89,36.94,0.0
 MA,joselandia,1,1,73.35,73.35,0.0
 MG,monte formoso,2,2,72.99,36.49,0.0
 MG,pedra do indaia,1,1,72.99,72.99,0.0
-PR,mato rico,1,1,72.9,72.9,0.0
-RO,cacaulandia,1,1,72.9,72.9,0.0
 CE,itarema,1,1,72.9,72.9,0.0
+RO,cacaulandia,1,1,72.9,72.9,0.0
+PR,mato rico,1,1,72.9,72.9,0.0
 PI,avelino lopes,2,2,72.89,36.44,0.0
 BA,arraial d ajuda,1,1,72.62,72.62,0.0
 SP,serra azul,1,1,72.5,72.5,0.0
@@ -3773,32 +3773,32 @@ BA,salobro,1,1,72.2,72.2,0.0
 MA,matoes,1,1,72.0,72.0,0.0
 BA,piripa,2,2,71.99,36.0,0.0
 SP,termas de ibira,1,1,71.9,71.9,0.0
-RS,taquarucu do sul,1,1,70.0,70.0,0.0
 SC,bom retiro,1,1,70.0,70.0,0.0
-MT,itanhanga,1,1,69.99,69.99,0.0
+RS,taquarucu do sul,1,1,70.0,70.0,0.0
 SP,planalto,1,1,69.99,69.99,0.0
-SP,cipo-guacu,1,1,69.99,69.99,0.0
-MS,anaurilandia,1,1,69.99,69.99,0.0
 PB,juripiranga,1,1,69.99,69.99,0.0
+MT,itanhanga,1,1,69.99,69.99,0.0
+MS,anaurilandia,1,1,69.99,69.99,0.0
+SP,cipo-guacu,1,1,69.99,69.99,0.0
 MG,ravena,1,1,69.99,69.99,0.0
-RO,ministro andreazza,1,1,69.9,69.9,0.0
-MG,morro do pilar,1,1,69.9,69.9,0.0
-MG,glaura,1,1,69.9,69.9,0.0
-PR,vila reis,1,1,69.9,69.9,0.0
+PR,formosa do oeste,1,1,69.9,69.9,0.0
 BA,boquira,1,1,69.9,69.9,0.0
+PR,vila reis,1,1,69.9,69.9,0.0
+MG,morro do pilar,1,1,69.9,69.9,0.0
+MG,moeda,1,1,69.9,69.9,0.0
+MG,sao francisco do gloria,1,1,69.9,69.9,0.0
+MG,glaura,1,1,69.9,69.9,0.0
+PR,florida,1,1,69.9,69.9,0.0
+MG,itutinga,1,1,69.9,69.9,0.0
+RS,nova padua,1,1,69.9,69.9,0.0
+RO,ministro andreazza,1,1,69.9,69.9,0.0
 ES,laranja da terra,1,1,69.9,69.9,0.0
 RJ,macuco,1,1,69.9,69.9,0.0
-RS,nova padua,1,1,69.9,69.9,0.0
 RS,piratini,1,1,69.9,69.9,0.0
-MG,sao francisco do gloria,1,1,69.9,69.9,0.0
-MG,itutinga,1,1,69.9,69.9,0.0
-PR,formosa do oeste,1,1,69.9,69.9,0.0
-PR,florida,1,1,69.9,69.9,0.0
-MG,moeda,1,1,69.9,69.9,0.0
 SP,onda verde,1,1,69.81,69.81,0.0
-MG,cascalho rico,1,1,69.0,69.0,0.0
 MS,anhandui,1,1,69.0,69.0,0.0
 PA,igarape-acu,1,1,69.0,69.0,0.0
+MG,cascalho rico,1,1,69.0,69.0,0.0
 PI,lagoa de sao francisco,1,1,68.99,68.99,0.0
 RS,guarani das missoes,2,2,68.66,34.33,0.0
 PR,ilha dos valadares,1,1,67.99,67.99,0.0
@@ -3807,12 +3807,12 @@ PR,conselheiro mairinck,1,1,67.0,67.0,0.0
 SP,buritizal,2,2,66.99,33.49,0.0
 MG,rio doce,1,1,66.0,66.0,0.0
 RN,angicos,1,1,65.99,65.99,0.0
-PR,santo inacio,1,1,65.9,65.9,0.0
 MG,bertopolis,1,1,65.9,65.9,0.0
+PR,santo inacio,1,1,65.9,65.9,0.0
 MG,capitao eneas,1,1,65.6,65.6,0.0
 PR,serra dos dourados,1,1,65.0,65.0,0.0
-MA,goncalves dias,1,1,65.0,65.0,0.0
 SE,ribeiropolis,1,1,65.0,65.0,0.0
+MA,goncalves dias,1,1,65.0,65.0,0.0
 SP,paranapua,2,2,64.99,32.5,0.0
 PE,alianca,1,1,64.99,64.99,0.0
 BA,teodoro sampaio,1,1,64.9,64.9,0.0
@@ -3820,8 +3820,8 @@ PE,itaquitinga,2,2,64.89,32.44,0.0
 AL,matriz de camaragibe,1,1,64.0,64.0,0.0
 RS,sao jorge,1,1,63.99,63.99,0.0
 RJ,passa tres,2,2,63.85,31.92,0.0
-AL,agua branca,1,1,63.8,63.8,0.0
 BA,anage,1,1,63.8,63.8,0.0
+AL,agua branca,1,1,63.8,63.8,0.0
 PR,guairaca,1,1,63.8,63.8,0.0
 BA,cristopolis,2,2,63.41,31.7,0.0
 RS,garruchos,1,1,62.9,62.9,0.0
@@ -3836,28 +3836,28 @@ MG,pavao,1,1,60.0,60.0,0.0
 SP,guarapua,1,1,60.0,60.0,0.0
 PA,morada nova,1,1,59.99,59.99,0.0
 RS,novo machado,1,1,59.99,59.99,0.0
-BA,jandaira,1,1,59.99,59.99,0.0
 MG,camacho,1,1,59.99,59.99,0.0
-SP,palmares paulista,1,1,59.9,59.9,0.0
-MG,mesquita,1,1,59.9,59.9,0.0
-MG,pinhotiba,1,1,59.9,59.9,0.0
-SP,sarutaia,1,1,59.9,59.9,0.0
-MG,padre paraiso,1,1,59.9,59.9,0.0
-MS,brasilandia,1,1,59.9,59.9,0.0
-RN,messias targino,1,1,59.9,59.9,0.0
-PR,sao miguel do cambui,1,1,59.9,59.9,0.0
-ES,praia grande,1,1,59.9,59.9,0.0
-MG,sao domingos,1,1,59.9,59.9,0.0
-SP,oleo,1,1,59.9,59.9,0.0
-MG,santa rita do itueto,1,1,59.9,59.9,0.0
-MG,lagoa dos patos,1,1,59.9,59.9,0.0
-MG,sao domingos das dores,1,1,59.9,59.9,0.0
-TO,buriti do tocantins,1,1,59.9,59.9,0.0
-SP,pedranopolis,1,1,59.9,59.9,0.0
+BA,jandaira,1,1,59.99,59.99,0.0
 PA,mocajuba,1,1,59.9,59.9,0.0
-RS,rainha do mar,1,1,59.9,59.9,0.0
+ES,praia grande,1,1,59.9,59.9,0.0
+SP,sarutaia,1,1,59.9,59.9,0.0
+MG,lagoa dos patos,1,1,59.9,59.9,0.0
 TO,fatima,1,1,59.9,59.9,0.0
+PR,sao miguel do cambui,1,1,59.9,59.9,0.0
+MG,mesquita,1,1,59.9,59.9,0.0
+MS,brasilandia,1,1,59.9,59.9,0.0
 RS,cerrito,1,1,59.9,59.9,0.0
+TO,buriti do tocantins,1,1,59.9,59.9,0.0
+MG,sao domingos das dores,1,1,59.9,59.9,0.0
+MG,sao domingos,1,1,59.9,59.9,0.0
+RN,messias targino,1,1,59.9,59.9,0.0
+RS,rainha do mar,1,1,59.9,59.9,0.0
+SP,pedranopolis,1,1,59.9,59.9,0.0
+MG,santa rita do itueto,1,1,59.9,59.9,0.0
+MG,padre paraiso,1,1,59.9,59.9,0.0
+SP,oleo,1,1,59.9,59.9,0.0
+MG,pinhotiba,1,1,59.9,59.9,0.0
+SP,palmares paulista,1,1,59.9,59.9,0.0
 RS,porto lucena,1,1,59.89,59.89,0.0
 MG,sao mateus de minas,1,1,59.88,59.88,0.0
 SP,salmourao,2,2,59.88,29.94,0.0
@@ -3866,19 +3866,19 @@ AC,brasileia,1,1,59.7,59.7,0.0
 RS,jacuizinho,1,1,59.54,59.54,0.0
 SC,galvao,1,1,59.5,59.5,0.0
 MT,novo mundo,1,1,59.15,59.15,0.0
-MG,queixada,1,1,59.0,59.0,0.0
-SC,rio rufino,1,1,59.0,59.0,0.0
-CE,lages,1,1,59.0,59.0,0.0
-SP,jamaica,1,1,59.0,59.0,0.0
 BA,lamarao,1,1,59.0,59.0,0.0
-CE,croata,1,1,58.99,58.99,0.0
+SP,jamaica,1,1,59.0,59.0,0.0
+CE,lages,1,1,59.0,59.0,0.0
+SC,rio rufino,1,1,59.0,59.0,0.0
+MG,queixada,1,1,59.0,59.0,0.0
 PB,pilar,1,1,58.99,58.99,0.0
-CE,uruburetama,1,1,58.99,58.99,0.0
-MG,paineiras,1,1,58.99,58.99,0.0
 GO,hidrolandia,1,1,58.99,58.99,0.0
-BA,cairu,1,1,58.99,58.99,0.0
+CE,uruburetama,1,1,58.99,58.99,0.0
 SP,anhumas,1,1,58.99,58.99,0.0
+MG,paineiras,1,1,58.99,58.99,0.0
 PR,nova america da colina,1,1,58.99,58.99,0.0
+BA,cairu,1,1,58.99,58.99,0.0
+CE,croata,1,1,58.99,58.99,0.0
 PR,palmeirinha,2,2,58.92,29.46,0.0
 BA,castro alves,2,2,58.9,29.45,0.0
 PR,porto amazonas,2,2,58.79,29.4,0.0
@@ -3889,20 +3889,20 @@ BA,caem,1,1,57.9,57.9,0.0
 PR,barra do jacare,1,1,57.9,57.9,0.0
 RJ,bacaxa,1,1,57.9,57.9,0.0
 MG,rubelita,1,1,57.89,57.89,0.0
+BA,condeuba,1,1,56.99,56.99,0.0
 PR,santa cecilia do pavao,1,1,56.99,56.99,0.0
 PR,alto paraiso,1,1,56.99,56.99,0.0
 RS,itaara,1,1,56.99,56.99,0.0
 BA,varzea do poco,1,1,56.99,56.99,0.0
-BA,condeuba,1,1,56.99,56.99,0.0
 SP,iacri,2,2,56.98,28.49,0.0
 PR,inaja,2,2,56.9,28.45,0.0
 ES,sao joao do sobrado,1,1,55.92,55.92,0.0
-MG,jaguaracu,1,1,55.9,55.9,0.0
 TO,arapoema,1,1,55.9,55.9,0.0
-BA,dom macedo costa,1,1,55.9,55.9,0.0
 BA,itamira,2,1,55.9,27.95,0.0
 MG,berilo,1,1,55.9,55.9,0.0
 PR,campo do tenente,1,1,55.9,55.9,0.0
+BA,dom macedo costa,1,1,55.9,55.9,0.0
+MG,jaguaracu,1,1,55.9,55.9,0.0
 SP,itaoca,1,1,55.8,55.8,0.0
 CE,taperuaba,1,1,55.49,55.49,0.0
 SP,balbinos,1,1,55.32,55.32,0.0
@@ -3910,22 +3910,22 @@ MG,tocos do moji,1,1,55.0,55.0,0.0
 RS,novo cabrais,1,1,55.0,55.0,0.0
 MS,porto murtinho,1,1,55.0,55.0,0.0
 BA,salinas da margarida,1,1,55.0,55.0,0.0
+PR,alto sao joao,1,1,54.99,54.99,0.0
+SP,pereiras,1,1,54.99,54.99,0.0
 MG,canaa,1,1,54.99,54.99,0.0
 BA,amargosa,1,1,54.99,54.99,0.0
-SP,pereiras,1,1,54.99,54.99,0.0
-PR,alto sao joao,1,1,54.99,54.99,0.0
 CE,itapiuna,2,1,54.98,27.49,0.0
 BA,carnaiba do sertao,1,1,54.98,54.98,0.0
 PB,prata,1,1,54.9,54.9,0.0
-PB,santo andre,1,1,54.9,54.9,0.0
-SC,guaraciaba,1,1,54.9,54.9,0.0
-RS,pouso novo,1,1,54.9,54.9,0.0
 RS,sete de setembro,1,1,54.9,54.9,0.0
+PB,santo andre,1,1,54.9,54.9,0.0
+RS,pouso novo,1,1,54.9,54.9,0.0
+SC,guaraciaba,1,1,54.9,54.9,0.0
 PR,nossa senhora das gracas,2,2,54.8,27.4,0.0
 MG,monsenhor paulo,1,1,53.99,53.99,0.0
 BA,sento se,1,1,53.99,53.99,0.0
-MS,angelica,1,1,53.9,53.9,0.0
 MG,cajuri,1,1,53.9,53.9,0.0
+MS,angelica,1,1,53.9,53.9,0.0
 PR,santana do itarare,1,1,53.9,53.9,0.0
 GO,brazabrantes,2,2,53.5,26.75,0.0
 SC,presidente nereu,1,1,52.99,52.99,0.0
@@ -3937,53 +3937,53 @@ MG,sao thome das letras,2,2,52.8,26.4,0.0
 MG,sao benedito,1,1,52.64,52.64,0.0
 SP,piacatu,1,1,51.19,51.19,0.0
 GO,nova america,1,1,51.0,51.0,0.0
-ES,pacotuba,1,1,50.9,50.9,0.0
 RN,vicosa,1,1,50.9,50.9,0.0
+ES,pacotuba,1,1,50.9,50.9,0.0
 PB,pedra lavrada,1,1,50.0,50.0,0.0
 RS,padre gonzales,1,1,50.0,50.0,0.0
-MG,pratapolis,1,1,49.99,49.99,0.0
 GO,mossamedes,1,1,49.99,49.99,0.0
-BA,cocos,1,1,49.99,49.99,0.0
+MG,pratapolis,1,1,49.99,49.99,0.0
+MG,serra do salitre,1,1,49.99,49.99,0.0
 GO,nova roma,1,1,49.99,49.99,0.0
 SP,bandeirantes d'oeste,1,1,49.99,49.99,0.0
-MG,serra do salitre,1,1,49.99,49.99,0.0
+BA,cocos,1,1,49.99,49.99,0.0
 MG,amparo da serra,1,1,49.95,49.95,0.0
-AL,maribondo,1,1,49.9,49.9,0.0
-RJ,pureza,1,1,49.9,49.9,0.0
-SP,palmeira d oeste,1,1,49.9,49.9,0.0
+SC,calmon,1,1,49.9,49.9,0.0
+ES,quilometro 14 do mutum,1,1,49.9,49.9,0.0
 MG,miradouro,1,1,49.9,49.9,0.0
-AL,murici,1,1,49.9,49.9,0.0
-BA,chorrocho,1,1,49.9,49.9,0.0
+DF,ceilandia,1,1,49.9,49.9,0.0
+RN,pedra preta,1,1,49.9,49.9,0.0
+MG,patis,1,1,49.9,49.9,0.0
+RS,almirante tamandare do sul,1,1,49.9,49.9,0.0
+RJ,pureza,1,1,49.9,49.9,0.0
 RS,selbach,1,1,49.9,49.9,0.0
-SC,agrolandia,1,1,49.9,49.9,0.0
 MG,caparao,1,1,49.9,49.9,0.0
 MG,santana de pirapama,1,1,49.9,49.9,0.0
-ES,quilometro 14 do mutum,1,1,49.9,49.9,0.0
-MA,santa quiteria do maranhao,1,1,49.9,49.9,0.0
-SC,calmon,1,1,49.9,49.9,0.0
-RN,pedra preta,1,1,49.9,49.9,0.0
-SC,rio dos cedros,1,1,49.9,49.9,0.0
-MG,patis,1,1,49.9,49.9,0.0
-SC,santa terezinha,1,1,49.9,49.9,0.0
-RS,almirante tamandare do sul,1,1,49.9,49.9,0.0
-PR,santa margarida,1,1,49.9,49.9,0.0
+AL,maribondo,1,1,49.9,49.9,0.0
 PR,guaraquecaba,1,1,49.9,49.9,0.0
-DF,ceilandia,1,1,49.9,49.9,0.0
+SC,agrolandia,1,1,49.9,49.9,0.0
+SP,palmeira d oeste,1,1,49.9,49.9,0.0
+SC,rio dos cedros,1,1,49.9,49.9,0.0
+BA,chorrocho,1,1,49.9,49.9,0.0
+PR,santa margarida,1,1,49.9,49.9,0.0
+MA,santa quiteria do maranhao,1,1,49.9,49.9,0.0
+SC,santa terezinha,1,1,49.9,49.9,0.0
 PA,juruti,1,1,49.9,49.9,0.0
+AL,murici,1,1,49.9,49.9,0.0
 PR,bocaiuva do sul,2,2,49.89,24.94,0.0
 SP,corumbatai,2,2,49.59,24.8,0.0
 PR,doce grande,1,1,49.49,49.49,0.0
 RS,jacutinga,1,1,49.39,49.39,0.0
 MT,sao jose do xingu,1,1,49.3,49.3,0.0
 MA,bela vista do maranhao,1,1,49.0,49.0,0.0
-BA,mansidao,1,1,49.0,49.0,0.0
-PE,tamandare,1,1,49.0,49.0,0.0
-PR,foz do jordao,1,1,49.0,49.0,0.0
-PA,jacareacanga,1,1,49.0,49.0,0.0
 ES,araguaia,1,1,49.0,49.0,0.0
-SC,iomere,1,1,49.0,49.0,0.0
-PR,vitorino,1,1,49.0,49.0,0.0
+PA,jacareacanga,1,1,49.0,49.0,0.0
 SP,elisiario,1,1,49.0,49.0,0.0
+PE,tamandare,1,1,49.0,49.0,0.0
+BA,mansidao,1,1,49.0,49.0,0.0
+PR,vitorino,1,1,49.0,49.0,0.0
+PR,foz do jordao,1,1,49.0,49.0,0.0
+SC,iomere,1,1,49.0,49.0,0.0
 SP,tuiuti,1,1,49.0,49.0,0.0
 PR,santa lucia,1,1,48.9,48.9,0.0
 RN,bodo,1,1,48.9,48.9,0.0
@@ -3994,31 +3994,31 @@ SE,indiaroba,1,1,48.0,48.0,0.0
 MS,ribas do rio pardo,1,1,47.9,47.9,0.0
 SP,populina,1,1,47.6,47.6,0.0
 RS,tiradentes do sul,1,1,46.86,46.86,0.0
+GO,crominia,1,1,45.9,45.9,0.0
 MA,humberto de campos,1,1,45.9,45.9,0.0
 CE,amontada,1,1,45.9,45.9,0.0
-GO,crominia,1,1,45.9,45.9,0.0
 MS,gloria de dourados,1,1,45.8,45.8,0.0
-BA,ribeira do amparo,1,1,45.0,45.0,0.0
 SP,queiroz,1,1,45.0,45.0,0.0
-RN,antonio martins,1,1,45.0,45.0,0.0
-BA,dias d avila,1,1,45.0,45.0,0.0
 BA,ibiajara,1,1,45.0,45.0,0.0
 PR,sao sebastiao da amoreira,1,1,45.0,45.0,0.0
+BA,ribeira do amparo,1,1,45.0,45.0,0.0
+RN,antonio martins,1,1,45.0,45.0,0.0
+BA,dias d avila,1,1,45.0,45.0,0.0
 PB,pedra branca,1,1,44.99,44.99,0.0
-PR,fenix,1,1,44.99,44.99,0.0
 CE,tabuleiro do norte,1,1,44.99,44.99,0.0
-BA,apora,1,1,44.9,44.9,0.0
+PR,fenix,1,1,44.99,44.99,0.0
 RS,pontao,1,1,44.9,44.9,0.0
+BA,apora,1,1,44.9,44.9,0.0
 BA,baixa grande,1,1,44.0,44.0,0.0
 MG,ubai,1,1,43.5,43.5,0.0
-PR,candoi,1,1,43.0,43.0,0.0
 SP,agisse,1,1,43.0,43.0,0.0
-AL,traipu,1,1,42.99,42.99,0.0
+PR,candoi,1,1,43.0,43.0,0.0
 BA,guaratinga,2,2,42.99,21.5,0.0
 MG,cedro do abaete,1,1,42.99,42.99,0.0
+AL,traipu,1,1,42.99,42.99,0.0
 RO,castanheiras,1,1,42.9,42.9,0.0
-RN,agua nova,1,1,42.0,42.0,0.0
 BA,aribice,1,1,42.0,42.0,0.0
+RN,agua nova,1,1,42.0,42.0,0.0
 MT,nobres,1,1,41.99,41.99,0.0
 AL,passo de camaragibe,1,1,41.98,41.98,0.0
 SP,florinia,1,1,41.5,41.5,0.0
@@ -4027,23 +4027,23 @@ RS,mampituba,1,1,40.95,40.95,0.0
 MA,maranhaozinho,1,1,40.9,40.9,0.0
 PR,juranda,2,2,40.9,20.45,0.0
 PE,terezinha,1,1,39.99,39.99,0.0
-RN,vera cruz,1,1,39.99,39.99,0.0
-PE,siriji,1,1,39.99,39.99,0.0
-PE,sao benedito do sul,1,1,39.99,39.99,0.0
-SC,ponte alta do norte,1,1,39.99,39.99,0.0
 MG,conceicao da ibitipoca,1,1,39.99,39.99,0.0
+SC,ponte alta do norte,1,1,39.99,39.99,0.0
+PE,sao benedito do sul,1,1,39.99,39.99,0.0
+PE,siriji,1,1,39.99,39.99,0.0
 BA,capela do alto alegre,1,1,39.99,39.99,0.0
 BA,igapora,1,1,39.99,39.99,0.0
+RN,vera cruz,1,1,39.99,39.99,0.0
 SE,riachuelo,1,1,39.97,39.97,0.0
-RS,itatiba do sul,1,1,39.9,39.9,0.0
 PE,cupira,1,1,39.9,39.9,0.0
-BA,varzedo,1,1,39.9,39.9,0.0
-RO,mutum parana,1,1,39.9,39.9,0.0
-MG,natercia,1,1,39.9,39.9,0.0
-MG,desterro de entre rios,1,1,39.9,39.9,0.0
+RS,itatiba do sul,1,1,39.9,39.9,0.0
 RS,alegria,1,1,39.9,39.9,0.0
 BA,itaju do colonia,1,1,39.9,39.9,0.0
 AL,girau do ponciano,1,1,39.9,39.9,0.0
+RO,mutum parana,1,1,39.9,39.9,0.0
+BA,varzedo,1,1,39.9,39.9,0.0
+MG,natercia,1,1,39.9,39.9,0.0
+MG,desterro de entre rios,1,1,39.9,39.9,0.0
 PB,mae d'agua,1,1,39.89,39.89,0.0
 PR,campo magro,1,1,39.8,39.8,0.0
 GO,formoso,1,1,39.0,39.0,0.0
@@ -4055,21 +4055,21 @@ MA,passagem franca,1,1,37.98,37.98,0.0
 MG,joaima,1,1,37.9,37.9,0.0
 RS,unistalda,1,1,37.9,37.9,0.0
 CE,pindoretama,1,1,37.55,37.55,0.0
+PI,alvorada do gurgueia,1,1,37.0,37.0,0.0
 BA,jussiape,1,1,37.0,37.0,0.0
 PE,nossa senhora do o,1,1,37.0,37.0,0.0
-PI,alvorada do gurgueia,1,1,37.0,37.0,0.0
 MS,sanga puita,1,1,36.9,36.9,0.0
-BA,santana do sobrado,1,1,36.9,36.9,0.0
 MS,inocencia,1,1,36.9,36.9,0.0
+BA,santana do sobrado,1,1,36.9,36.9,0.0
 CE,pedra branca,2,2,36.89,18.44,0.0
 CE,lagoa do mato,1,1,35.99,35.99,0.0
 MG,virginia,1,1,35.9,35.9,0.0
-PR,boa esperanca do iguacu,1,1,35.9,35.9,0.0
 MG,divino das laranjeiras,1,1,35.9,35.9,0.0
+PR,boa esperanca do iguacu,1,1,35.9,35.9,0.0
 RN,florania,1,1,35.5,35.5,0.0
 CE,capistrano,1,1,35.0,35.0,0.0
-PB,sao bentinho,1,1,35.0,35.0,0.0
 MG,miravania,1,1,35.0,35.0,0.0
+PB,sao bentinho,1,1,35.0,35.0,0.0
 MA,peri mirim,1,1,34.99,34.99,0.0
 MS,paraiso das aguas,1,1,34.99,34.99,0.0
 SP,gabriel monteiro,1,1,34.9,34.9,0.0
@@ -4084,55 +4084,55 @@ MG,vermelho novo,1,1,33.87,33.87,0.0
 RS,vitoria das missoes,1,1,33.8,33.8,0.0
 GO,damianopolis,2,2,33.64,16.82,0.0
 RS,guabiju,1,1,33.6,33.6,0.0
-RS,colinas,1,1,32.99,32.99,0.0
 CE,itaicaba,1,1,32.99,32.99,0.0
 MS,prudencio thomaz,1,1,32.99,32.99,0.0
+RS,colinas,1,1,32.99,32.99,0.0
 PA,santo antonio do taua,1,1,32.9,32.9,0.0
 GO,morro agudo de goias,1,1,32.9,32.9,0.0
-RJ,bemposta,1,1,32.0,32.0,0.0
 RJ,jamapara,1,1,32.0,32.0,0.0
+RJ,bemposta,1,1,32.0,32.0,0.0
 RS,picada cafe,1,1,32.0,32.0,0.0
-BA,cabaceiras do paraguacu,1,1,31.9,31.9,0.0
-MG,morro vermelho,1,1,31.9,31.9,0.0
-MA,sao francisco do brejao,1,1,31.9,31.9,0.0
 RS,barao,1,1,31.9,31.9,0.0
+BA,cabaceiras do paraguacu,1,1,31.9,31.9,0.0
+MA,sao francisco do brejao,1,1,31.9,31.9,0.0
 PA,ourem,1,1,31.9,31.9,0.0
+MG,morro vermelho,1,1,31.9,31.9,0.0
 PR,alexandra,1,1,31.9,31.9,0.0
 SC,santa cruz do timbo,1,1,30.99,30.99,0.0
 RN,lagoa salgada,1,1,30.24,30.24,0.0
 SC,dona emma,1,1,30.21,30.21,0.0
 MT,vila bela da santissima trindade,1,1,29.99,29.99,0.0
-BA,igrapiuna,1,1,29.99,29.99,0.0
-PI,angical do piaui,1,1,29.99,29.99,0.0
 MG,senhora dos remedios,1,1,29.99,29.99,0.0
-GO,buriti alegre,1,1,29.99,29.99,0.0
-MG,santa rita de jacutinga,1,1,29.99,29.99,0.0
-AP,porto grande,1,1,29.99,29.99,0.0
-MS,guia lopes da laguna,1,1,29.99,29.99,0.0
-BA,gongogi,1,1,29.99,29.99,0.0
-MG,centralina,1,1,29.99,29.99,0.0
-MA,arame,1,1,29.99,29.99,0.0
 CE,coreau,1,1,29.99,29.99,0.0
+MG,santa rita de jacutinga,1,1,29.99,29.99,0.0
+MG,centralina,1,1,29.99,29.99,0.0
+GO,buriti alegre,1,1,29.99,29.99,0.0
+PI,angical do piaui,1,1,29.99,29.99,0.0
+BA,gongogi,1,1,29.99,29.99,0.0
+AP,porto grande,1,1,29.99,29.99,0.0
+BA,igrapiuna,1,1,29.99,29.99,0.0
+MA,arame,1,1,29.99,29.99,0.0
+MS,guia lopes da laguna,1,1,29.99,29.99,0.0
 RS,segredo,1,1,29.94,29.94,0.0
+MG,antonio carlos,1,1,29.9,29.9,0.0
 RS,marques de souza,1,1,29.9,29.9,0.0
+MT,ribeirao cascalheira,1,1,29.9,29.9,0.0
+PR,sulina,1,1,29.9,29.9,0.0
 TO,nova olinda,1,1,29.9,29.9,0.0
 MG,pescador,1,1,29.9,29.9,0.0
-MG,antonio carlos,1,1,29.9,29.9,0.0
 AL,sao bras,1,1,29.9,29.9,0.0
-PR,sulina,1,1,29.9,29.9,0.0
-MT,ribeirao cascalheira,1,1,29.9,29.9,0.0
 RS,monte bonito,1,1,29.5,29.5,0.0
 PE,jurema,1,1,29.5,29.5,0.0
-PR,jussara,1,1,29.49,29.49,0.0
 BA,pirai do norte,1,1,29.49,29.49,0.0
-PR,rosario do ivai,1,1,29.0,29.0,0.0
+PR,jussara,1,1,29.49,29.49,0.0
 PI,caxingo,1,1,29.0,29.0,0.0
-SP,boraceia,1,1,29.0,29.0,0.0
-TO,combinado,1,1,29.0,29.0,0.0
 SP,fernao,1,1,29.0,29.0,0.0
+TO,combinado,1,1,29.0,29.0,0.0
+PR,rosario do ivai,1,1,29.0,29.0,0.0
+SP,boraceia,1,1,29.0,29.0,0.0
+MG,indianopolis,1,1,28.99,28.99,0.0
 RS,paraiso do sul,1,1,28.99,28.99,0.0
 PR,vitoria,1,1,28.99,28.99,0.0
-MG,indianopolis,1,1,28.99,28.99,0.0
 CE,ibicuitinga,1,1,28.99,28.99,0.0
 MG,silveira carvalho,1,1,28.9,28.9,0.0
 RJ,corrego do ouro,1,1,28.9,28.9,0.0
@@ -4141,8 +4141,8 @@ RJ,barao de juparana,1,1,28.49,28.49,0.0
 MA,rosario,1,1,28.12,28.12,0.0
 SP,turmalina,1,1,28.0,28.0,0.0
 ES,sao joao de petropolis,1,1,27.99,27.99,0.0
-GO,novo planalto,1,1,27.99,27.99,0.0
 PR,laranjal,1,1,27.99,27.99,0.0
+GO,novo planalto,1,1,27.99,27.99,0.0
 RS,boa vista do sul,1,1,27.99,27.99,0.0
 RN,sao tome,1,1,27.99,27.99,0.0
 PA,igarape-miri,1,1,27.99,27.99,0.0
@@ -4150,8 +4150,8 @@ PR,icaraima,1,1,27.9,27.9,0.0
 BA,sao felix,1,1,27.9,27.9,0.0
 PR,corumbatai do sul,1,1,27.49,27.49,0.0
 GO,turvelandia,1,1,27.3,27.3,0.0
-PA,ulianopolis,1,1,27.3,27.3,0.0
 ES,ibiracu,1,1,27.3,27.3,0.0
+PA,ulianopolis,1,1,27.3,27.3,0.0
 RN,sao joao do sabugi,1,1,26.9,26.9,0.0
 MA,bom jardim,1,1,25.9,25.9,0.0
 MS,eldorado,1,1,25.9,25.9,0.0
@@ -4161,16 +4161,16 @@ ES,angelo frechiani,1,1,25.32,25.32,0.0
 MG,santana do capivari,1,1,25.0,25.0,0.0
 MT,nova guarita,1,1,25.0,25.0,0.0
 MG,guinda,1,1,25.0,25.0,0.0
-GO,flores de goias,1,1,24.99,24.99,0.0
-SC,leoberto leal,1,1,24.99,24.99,0.0
-PI,sebastiao leal,1,1,24.99,24.99,0.0
 PA,tome-acu,1,1,24.99,24.99,0.0
 MA,sitio novo,1,1,24.99,24.99,0.0
+SC,leoberto leal,1,1,24.99,24.99,0.0
 SC,uniao do oeste,1,1,24.99,24.99,0.0
-MG,sobralia,1,1,24.9,24.9,0.0
-PI,rio grande do piaui,1,1,24.9,24.9,0.0
+PI,sebastiao leal,1,1,24.99,24.99,0.0
+GO,flores de goias,1,1,24.99,24.99,0.0
 MG,delfim moreira,1,1,24.9,24.9,0.0
+PI,rio grande do piaui,1,1,24.9,24.9,0.0
 MG,desterro do melo,1,1,24.9,24.9,0.0
+MG,sobralia,1,1,24.9,24.9,0.0
 BA,satiro dias,1,1,24.5,24.5,0.0
 GO,mutunopolis,1,1,24.41,24.41,0.0
 PE,vertentes,1,1,23.99,23.99,0.0
@@ -4187,34 +4187,34 @@ GO,jandaia,1,1,23.2,23.2,0.0
 RJ,cambiasca,1,1,22.99,22.99,0.0
 RS,serio,1,1,22.9,22.9,0.0
 SP,nova luzitania,1,1,22.9,22.9,0.0
-RS,pareci novo,1,1,22.0,22.0,0.0
 RS,vista alegre,1,1,22.0,22.0,0.0
+RS,pareci novo,1,1,22.0,22.0,0.0
 RS,vale do sol,1,1,21.99,21.99,0.0
 AL,vicosa,1,1,21.9,21.9,0.0
-RS,sertao santana,1,1,20.9,20.9,0.0
 PI,francisco santos,1,1,20.9,20.9,0.0
-SE,sao miguel do aleixo,1,1,20.0,20.0,0.0
+RS,sertao santana,1,1,20.9,20.9,0.0
 TO,pium,1,1,20.0,20.0,0.0
-MG,cuite velho,1,1,19.99,19.99,0.0
+SE,sao miguel do aleixo,1,1,20.0,20.0,0.0
 BA,caturama,1,1,19.99,19.99,0.0
-PR,barracao,1,1,19.99,19.99,0.0
 GO,jardim abc de goias,1,1,19.99,19.99,0.0
 RN,monte alegre,1,1,19.99,19.99,0.0
-SC,presidente castello branco,1,1,19.9,19.9,0.0
-SP,aparecida d'oeste,1,1,19.9,19.9,0.0
-PR,tupassi,1,1,19.9,19.9,0.0
-BA,joao dourado,1,1,19.9,19.9,0.0
-SE,santo amaro das brotas,1,1,19.9,19.9,0.0
-RS,pinhal da serra,1,1,19.9,19.9,0.0
-RN,sao rafael,1,1,19.9,19.9,0.0
+MG,cuite velho,1,1,19.99,19.99,0.0
+PR,barracao,1,1,19.99,19.99,0.0
 MG,minduri,1,1,19.9,19.9,0.0
+SE,santo amaro das brotas,1,1,19.9,19.9,0.0
+SC,presidente castello branco,1,1,19.9,19.9,0.0
 BA,nova redencao,1,1,19.9,19.9,0.0
+PR,tupassi,1,1,19.9,19.9,0.0
+RN,sao rafael,1,1,19.9,19.9,0.0
+RS,pinhal da serra,1,1,19.9,19.9,0.0
+SP,aparecida d'oeste,1,1,19.9,19.9,0.0
 RS,faxinalzinho,1,1,19.9,19.9,0.0
+BA,joao dourado,1,1,19.9,19.9,0.0
 RN,santa maria,1,1,19.83,19.83,0.0
 SC,caxambu do sul,1,1,19.5,19.5,0.0
 PR,balsa nova,1,1,19.45,19.45,0.0
-CE,pires ferreira,1,1,18.95,18.95,0.0
 CE,vicosa do ceara,1,1,18.95,18.95,0.0
+CE,pires ferreira,1,1,18.95,18.95,0.0
 PR,leopolis,1,1,18.9,18.9,0.0
 RS,uniao da serra,1,1,18.5,18.5,0.0
 GO,montividiu do norte,1,1,17.99,17.99,0.0
@@ -4232,24 +4232,24 @@ MG,sao bento abade,1,1,16.0,16.0,0.0
 MA,amapa do maranhao,1,1,15.9,15.9,0.0
 PI,demerval lobao,1,1,15.0,15.0,0.0
 CE,missao velha,1,1,14.99,14.99,0.0
-RJ,boa ventura,1,1,14.9,14.9,0.0
-CE,mauriti,1,1,14.9,14.9,0.0
 GO,cabeceiras,1,1,14.9,14.9,0.0
-SP,ibitiuva,1,1,14.9,14.9,0.0
-RS,estrela velha,1,1,14.9,14.9,0.0
+CE,mauriti,1,1,14.9,14.9,0.0
 PR,ouro verde do oeste,1,1,14.9,14.9,0.0
+RJ,boa ventura,1,1,14.9,14.9,0.0
+RS,estrela velha,1,1,14.9,14.9,0.0
+SP,ibitiuva,1,1,14.9,14.9,0.0
 RJ,duas barras,1,1,14.89,14.89,0.0
 MG,estevao de araujo,1,1,14.2,14.2,0.0
-PR,reserva do iguacu,1,1,14.0,14.0,0.0
 MA,vitoria do mearim,1,1,14.0,14.0,0.0
-BA,jacuipe,1,1,13.98,13.98,0.0
+PR,reserva do iguacu,1,1,14.0,14.0,0.0
 PA,tracuateua,1,1,13.98,13.98,0.0
-PI,nova santa rita,1,1,13.98,13.98,0.0
+BA,jacuipe,1,1,13.98,13.98,0.0
 BA,brejolandia,1,1,13.98,13.98,0.0
+PI,nova santa rita,1,1,13.98,13.98,0.0
 PE,altinho,1,1,13.9,13.9,0.0
 MG,ponto do marambaia,1,1,13.7,13.7,0.0
-BA,canapolis,1,1,13.65,13.65,0.0
 PI,marcos parente,1,1,13.65,13.65,0.0
+BA,canapolis,1,1,13.65,13.65,0.0
 MG,tuparece,1,1,13.5,13.5,0.0
 GO,cezarina,1,1,13.49,13.49,0.0
 RS,liberato salzano,1,1,12.99,12.99,0.0
@@ -4262,8 +4262,8 @@ MG,nova resende,1,1,10.99,10.99,0.0
 MG,estiva,1,1,10.9,10.9,0.0
 PR,planaltina do parana,1,1,10.75,10.75,0.0
 GO,bom jardim de goias,1,1,10.0,10.0,0.0
-PA,medicilandia,1,1,8.99,8.99,0.0
 PR,tamboara,1,1,8.99,8.99,0.0
+PA,medicilandia,1,1,8.99,8.99,0.0
 BA,erico cardoso,1,1,8.09,8.09,0.0
 RJ,santa maria,1,1,8.0,8.0,0.0
 MG,jenipapo de minas,1,1,7.48,7.48,0.0

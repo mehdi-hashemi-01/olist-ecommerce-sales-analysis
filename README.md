@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-2.2+-150458?logo=pandas&logoColor=white)
 [![Dataset](https://img.shields.io/badge/Dataset-Olist-087E8B)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-![Progress](https://img.shields.io/badge/Analysis-12_steps-25665B)
+![Progress](https://img.shields.io/badge/Analysis-13_steps-25665B)
 
 [Overview](#overview) · [Dataset](#dataset) · [Results](#results) · [Script guide](#script-guide) · [Run locally](#run-locally)
 
@@ -17,7 +17,7 @@
 
 A sales manager sees a strong month on the dashboard. Did more customers place orders, or did each order contain more merchandise? This project uses Olist transactions to work through that question and two others. Which customers, cities, and categories account for the most sales? Where do deliveries miss their promised dates?
 
-Twelve numbered scripts take the raw files from inspection to sales, customer and delivery results. Each script prints a short summary. Detailed results are available in CSV tables and six figures.
+Thirteen numbered scripts take the raw files from inspection to sales, customer and delivery results. Each script prints a short summary. Detailed results are available in CSV tables and seven figures.
 
 ## Dataset
 
@@ -72,6 +72,22 @@ The monthly table covers all observed purchase months for delivered orders, incl
 
 [Order count trend](assets/figures/09_plot_monthly_trends/order_count.png) · [Average order value trend](assets/figures/09_plot_monthly_trends/average_order_value.png) · [City ranking](assets/figures/11_rank_cities/top_sales.png) · [Category ranking](assets/figures/12_rank_product_categories/top_sales.png)
 
+### October and November 2017 by product
+
+The mean selling price per delivered item fell from **R$ 124.33 to R$ 116.55**. Of 920 product IDs sold in both months, 156 had a lower mean price, 121 a higher one, and 643 the same. These counts weight every product equally. The decomposition below weights each product by units sold.
+
+| Contribution to the overall change | BRL per item |
+|:--|--:|
+| Restrict October to products also sold in November | −10.55 |
+| Change in selling prices among the matched products | −1.31 |
+| Change in unit shares among the matched products | −10.79 |
+| Expand November to include products sold only in November | +14.87 |
+| **Total change** | **−7.78** |
+
+The comparison moves from October's full basket to the October matched basket, then to the November matched basket, and finally to November's full basket. Average unit shares and prices across both months split the matched change symmetrically. The net product mix contribution was **−R$ 6.47 (83.2% of the overall fall)** under this method. A product observed in only one month has no observed price in the other month. Changes in observed selling prices can also reflect different sellers.
+
+![Contributions to the fall in average item price](assets/figures/13_compare_product_prices/price_change.png)
+
 ## Run locally
 
 Use Python 3.11. Extract the nine source CSVs directly into `data/raw/`. Run the commands below from the repository root. The scripts also work from an IDE with the same Python environment.
@@ -106,6 +122,7 @@ Get-ChildItem scripts/[0-9]*.py | Sort-Object Name | ForEach-Object {
 | [10_analyze_repeat_customers.py](scripts/10_analyze_repeat_customers.py) | Join customers and count distinct orders per buyer | 07 + raw customers | [Buyer KPIs](reports/tables/10_customer_kpis.csv) · [Top 10 customers](reports/tables/10_top_customers.csv) |
 | [11_rank_cities.py](scripts/11_rank_cities.py) | Rank city and state pairs by merchandise sales | 10 | [City sales](reports/tables/11_city_sales.csv) |
 | [12_rank_product_categories.py](scripts/12_rank_product_categories.py) | Join products and translations to delivered items, then reconcile category sales | 07 + raw items, products and translations | [Category sales](reports/tables/12_category_sales.csv) |
+| [13_compare_product_prices.py](scripts/13_compare_product_prices.py) | Match product IDs across two months and separate price from unit mix | Raw orders and items | [Product comparison](reports/tables/13_product_price_comparison.csv) · [Contributions](reports/tables/13_price_effects.csv) |
 
 ## Repository structure
 
@@ -113,10 +130,10 @@ Get-ChildItem scripts/[0-9]*.py | Sort-Object Name | ForEach-Object {
 |:--|:--|
 | `data/raw/` | The nine original Olist CSVs, downloaded separately |
 | `data/processed/` | Intermediate order, delivery and customer tables generated locally |
-| `scripts/` | Twelve numbered scripts. The two shared modules contain paths and chart formatting |
-| `reports/tables/` | Small CSV reports. Files from steps 02–12 start with their step number |
+| `scripts/` | Thirteen numbered scripts. The two shared modules contain paths and chart formatting |
+| `reports/tables/` | Small CSV reports. Files from steps 02–13 start with their step number |
 | `assets/figures/` | Exported charts grouped by the script that produced them |
 
 ## Next step
 
-Compare the order count and average order value in October and November 2017. Use the three monthly charts to explain the change in merchandise sales, then write one business recommendation that the figures support.
+Rank matched products by their contribution to the change in unit mix, then group contributions by category to identify where buying patterns shifted most.
