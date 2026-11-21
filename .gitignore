@@ -1,0 +1,32 @@
+# Local copies of the Olist data
+/data/raw/*
+!/data/raw/.gitkeep
+/data/processed/*
+!/data/processed/.gitkeep
+
+# Downloaded datasets and project bundles
+*.zip
+
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+env/
+conda-env/
+
+# Local settings
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+*.swp
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
